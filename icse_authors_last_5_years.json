@@ -1,0 +1,2519 @@
+{
+    "name": "ICSE Authors (Last 5 Years)",
+    "children": [
+        {
+            "author_name": "Farid Edrisi",
+            "url": "https://dblp.uni-trier.de/pid/273/8775.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mehdi Saman Azari"
+            ]
+        },
+        {
+            "author_name": "Mehdi Saman Azari",
+            "url": "https://dblp.uni-trier.de/pid/255/3244.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Farid Edrisi"
+            ]
+        },
+        {
+            "author_name": "Malte Heithoff",
+            "url": "https://dblp.uni-trier.de/pid/207/9287.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Judith Michael",
+                "Alexander David Hellwig",
+                "Bernhard Rumpe"
+            ]
+        },
+        {
+            "author_name": "Alexander David Hellwig",
+            "url": "https://dblp.uni-trier.de/pid/248/3288.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Judith Michael",
+                "Bernhard Rumpe",
+                "Malte Heithoff"
+            ]
+        },
+        {
+            "author_name": "Judith Michael",
+            "url": "https://dblp.uni-trier.de/pid/27/10220.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Malte Heithoff",
+                "Alexander David Hellwig",
+                "Bernhard Rumpe"
+            ]
+        },
+        {
+            "author_name": "Bernhard Rumpe",
+            "url": "https://dblp.uni-trier.de/pid/r/BernhardRumpe.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ina Schaefer",
+                "Malte Heithoff",
+                "Judith Michael",
+                "Shahar Maoz",
+                "Alexander David Hellwig",
+                "Jan Oliver Ringert"
+            ]
+        },
+        {
+            "author_name": "Carolina Neves",
+            "url": "https://dblp.uni-trier.de/pid/352/8928.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Srishti Nigam",
+                "Ander Eguiluz",
+                "Daumantas Patapas",
+                "Tanjina Islam",
+                "Ivano Malavolta",
+                "Chia-Yu Lin"
+            ]
+        },
+        {
+            "author_name": "Chia-Yu Lin",
+            "url": "https://dblp.uni-trier.de/pid/08/397.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Carolina Neves",
+                "Tanjina Islam",
+                "Ander Eguiluz",
+                "Ivano Malavolta",
+                "Srishti Nigam",
+                "Daumantas Patapas"
+            ]
+        },
+        {
+            "author_name": "Srishti Nigam",
+            "url": "https://dblp.uni-trier.de/pid/266/1153.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ander Eguiluz",
+                "Daumantas Patapas",
+                "Carolina Neves",
+                "Tanjina Islam",
+                "Ivano Malavolta",
+                "Chia-Yu Lin"
+            ]
+        },
+        {
+            "author_name": "Daumantas Patapas",
+            "url": "https://dblp.uni-trier.de/pid/352/9887.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Srishti Nigam",
+                "Ander Eguiluz",
+                "Carolina Neves",
+                "Tanjina Islam",
+                "Ivano Malavolta",
+                "Chia-Yu Lin"
+            ]
+        },
+        {
+            "author_name": "Ander Eguiluz",
+            "url": "https://dblp.uni-trier.de/pid/352/9926.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Srishti Nigam",
+                "Daumantas Patapas",
+                "Carolina Neves",
+                "Tanjina Islam",
+                "Ivano Malavolta",
+                "Chia-Yu Lin"
+            ]
+        },
+        {
+            "author_name": "Tanjina Islam",
+            "url": "https://dblp.uni-trier.de/pid/264/2988.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ander Eguiluz",
+                "Ivano Malavolta",
+                "Carolina Neves",
+                "Srishti Nigam",
+                "Chia-Yu Lin",
+                "Daumantas Patapas"
+            ]
+        },
+        {
+            "author_name": "Ivano Malavolta",
+            "url": "https://dblp.uni-trier.de/pid/35/1083.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Carolina Neves",
+                "Marvin Wyrich",
+                "Anthony Peruma",
+                "Tanjina Islam",
+                "Ander Eguiluz",
+                "Srishti Nigam",
+                "Chia-Yu Lin",
+                "Daumantas Patapas"
+            ]
+        },
+        {
+            "author_name": "Lorena Poenaru-Olaru",
+            "url": "https://dblp.uni-trier.de/pid/307/7990.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Luis Cruz",
+                "Jan S. Rellermeyer",
+                "Arie van Deursen",
+                "June Sallou"
+            ]
+        },
+        {
+            "author_name": "June Sallou",
+            "url": "https://dblp.uni-trier.de/pid/267/7204.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jan S. Rellermeyer",
+                "Arie van Deursen",
+                "Lorena Poenaru-Olaru",
+                "Luis Cruz"
+            ]
+        },
+        {
+            "author_name": "Luis Cruz",
+            "url": "https://dblp.uni-trier.de/pid/96/2486-2.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Rui Abreu",
+                "Jan S. Rellermeyer",
+                "Arie van Deursen",
+                "Lorena Poenaru-Olaru",
+                "June Sallou"
+            ]
+        },
+        {
+            "author_name": "Jan S. Rellermeyer",
+            "url": "https://dblp.uni-trier.de/pid/21/4498.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Lorena Poenaru-Olaru",
+                "Arie van Deursen",
+                "Luis Cruz",
+                "June Sallou"
+            ]
+        },
+        {
+            "author_name": "Arie van Deursen",
+            "url": "https://dblp.uni-trier.de/pid/d/ArievanDeursen.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Lorena Poenaru-Olaru",
+                "Thomas Zimmermann",
+                "Dirk Beyer",
+                "Chetan Bansal",
+                "Rui Abreu",
+                "Andrea Zisman",
+                "Toufique Ahmed",
+                "Muhammad Ali Babar",
+                "Luis Cruz",
+                "Jan S. Rellermeyer",
+                "June Sallou"
+            ]
+        },
+        {
+            "author_name": "Samdyuti Suri",
+            "url": "https://dblp.uni-trier.de/pid/352/8758.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Vikrant Kaulgud",
+                "Kuntal Dey",
+                "Kapil Singi",
+                "Vibhu Saujanya Sharma",
+                "Sankar Narayan Das"
+            ]
+        },
+        {
+            "author_name": "Sankar Narayan Das",
+            "url": "https://dblp.uni-trier.de/pid/147/2201.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Vikrant Kaulgud",
+                "Kuntal Dey",
+                "Kapil Singi",
+                "Vibhu Saujanya Sharma",
+                "Samdyuti Suri"
+            ]
+        },
+        {
+            "author_name": "Kuntal Dey",
+            "url": "https://dblp.uni-trier.de/pid/82/1315.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Samdyuti Suri",
+                "Vikrant Kaulgud",
+                "Kapil Singi",
+                "Vibhu Saujanya Sharma",
+                "Sankar Narayan Das"
+            ]
+        },
+        {
+            "author_name": "Kapil Singi",
+            "url": "https://dblp.uni-trier.de/pid/165/8254.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kuntal Dey",
+                "Vikrant Kaulgud",
+                "Vibhu Saujanya Sharma",
+                "Samdyuti Suri",
+                "Sankar Narayan Das"
+            ]
+        },
+        {
+            "author_name": "Vibhu Saujanya Sharma",
+            "url": "https://dblp.uni-trier.de/pid/69/3337.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kuntal Dey",
+                "Vikrant Kaulgud",
+                "Kapil Singi",
+                "Samdyuti Suri",
+                "Sankar Narayan Das"
+            ]
+        },
+        {
+            "author_name": "Vikrant Kaulgud",
+            "url": "https://dblp.uni-trier.de/pid/09/6043.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kuntal Dey",
+                "Kapil Singi",
+                "Vibhu Saujanya Sharma",
+                "Samdyuti Suri",
+                "Sankar Narayan Das"
+            ]
+        },
+        {
+            "author_name": "Alicia JW Takaoka",
+            "url": "https://dblp.uni-trier.de/pid/352/9595.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Letizia Jaccheri",
+                "Dirk Ahlers",
+                "Eivind Syrdalen Dovland"
+            ]
+        },
+        {
+            "author_name": "Dirk Ahlers",
+            "url": "https://dblp.uni-trier.de/pid/27/1897.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Alicia JW Takaoka",
+                "Letizia Jaccheri",
+                "Eivind Syrdalen Dovland"
+            ]
+        },
+        {
+            "author_name": "Ferdinand Ward Adlandsvik",
+            "url": "https://dblp.uni-trier.de/pid/352/8918.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Letizia Jaccheri",
+                "Dirk Ahlers",
+                "Alicia JW Takaoka",
+                "Eivind Syrdalen Dovland"
+            ]
+        },
+        {
+            "author_name": "Eivind Syrdalen Dovland",
+            "url": "https://dblp.uni-trier.de/pid/352/8839.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Letizia Jaccheri",
+                "Dirk Ahlers",
+                "Alicia JW Takaoka"
+            ]
+        },
+        {
+            "author_name": "Letizia Jaccheri",
+            "url": "https://dblp.uni-trier.de/pid/j/MLJaccheri.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Dirk Ahlers",
+                "Eivind Syrdalen Dovland",
+                "Alicia JW Takaoka"
+            ]
+        },
+        {
+            "author_name": "Mehul Warade",
+            "url": "https://dblp.uni-trier.de/pid/284/5396.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jean-Guy Schneider",
+                "Chathurika Ranaweera",
+                "Kevin Lee"
+            ]
+        },
+        {
+            "author_name": "Kevin Lee",
+            "url": "https://dblp.uni-trier.de/pid/44/765.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Seng W. Loke",
+                "Chathurika Ranaweera",
+                "Mehul Warade",
+                "Chetan Arora",
+                "Laura Tubino",
+                "Vasudha Malhotra",
+                "Jonathan Kua",
+                "Andrew Cain",
+                "Jean-Guy Schneider"
+            ]
+        },
+        {
+            "author_name": "Chathurika Ranaweera",
+            "url": "https://dblp.uni-trier.de/pid/50/11132-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Chetan Arora",
+                "Kevin Lee",
+                "Laura Tubino",
+                "Jonathan Kua",
+                "Mehul Warade",
+                "Andrew Cain",
+                "Jean-Guy Schneider",
+                "Seng W. Loke"
+            ]
+        },
+        {
+            "author_name": "Jean-Guy Schneider",
+            "url": "https://dblp.uni-trier.de/pid/93/2780.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Kevin Lee",
+                "Chathurika Ranaweera",
+                "Mehul Warade",
+                "Laura Tubino",
+                "Andrew Cain"
+            ]
+        },
+        {
+            "author_name": "Md. Mahim Anjum Haque",
+            "url": "https://dblp.uni-trier.de/pid/290/2030.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ismini Lourentzou",
+                "Wasi Uddin Ahmad",
+                "Chris Brown",
+                "Toufique Ahmed"
+            ]
+        },
+        {
+            "author_name": "Wasi Uddin Ahmad",
+            "url": "https://dblp.uni-trier.de/pid/183/0576.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Md. Mahim Anjum Haque",
+                "Chris Brown",
+                "Ismini Lourentzou"
+            ]
+        },
+        {
+            "author_name": "Ismini Lourentzou",
+            "url": "https://dblp.uni-trier.de/pid/136/7883.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Md. Mahim Anjum Haque",
+                "Wasi Uddin Ahmad",
+                "Chris Brown"
+            ]
+        },
+        {
+            "author_name": "Chris Brown",
+            "url": "https://dblp.uni-trier.de/pid/126/9627.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ismini Lourentzou",
+                "Wasi Uddin Ahmad",
+                "Md. Mahim Anjum Haque"
+            ]
+        },
+        {
+            "author_name": "Daniel Horvath",
+            "url": "https://dblp.uni-trier.de/pid/83/7257.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Viktor Csuvik"
+            ]
+        },
+        {
+            "author_name": "Viktor Csuvik",
+            "url": "https://dblp.uni-trier.de/pid/219/1665.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": []
+        },
+        {
+            "author_name": "Tibor Gyimothy",
+            "url": "https://dblp.uni-trier.de/pid/23/234.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Viktor Csuvik"
+            ]
+        },
+        {
+            "author_name": "Laszlo Vidacs",
+            "url": "https://dblp.uni-trier.de/pid/21/5882.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Viktor Csuvik"
+            ]
+        },
+        {
+            "author_name": "Phan Thi Thanh Huyen",
+            "url": "https://dblp.uni-trier.de/pid/172/0347.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shinji Itoh",
+                "Kazuya Yasuda"
+            ]
+        },
+        {
+            "author_name": "Kazuya Yasuda",
+            "url": "https://dblp.uni-trier.de/pid/156/0305.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Phan Thi Thanh Huyen",
+                "Shinji Itoh"
+            ]
+        },
+        {
+            "author_name": "Shinji Itoh",
+            "url": "https://dblp.uni-trier.de/pid/34/6240.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Phan Thi Thanh Huyen",
+                "Kazuya Yasuda"
+            ]
+        },
+        {
+            "author_name": "Steven P. Reiss",
+            "url": "https://dblp.uni-trier.de/pid/r/StevenPReiss.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Qi Xin",
+                "Xuan Wei"
+            ]
+        },
+        {
+            "author_name": "Xuan Wei",
+            "url": "https://dblp.uni-trier.de/pid/85/7767.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Qi Xin",
+                "Steven P. Reiss"
+            ]
+        },
+        {
+            "author_name": "Qi Xin",
+            "url": "https://dblp.uni-trier.de/pid/77/2901.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Steven P. Reiss",
+                "Xuan Wei"
+            ]
+        },
+        {
+            "author_name": "Francisco Ribeiro",
+            "url": "https://dblp.uni-trier.de/pid/51/10161.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Rui Abreu",
+                "Kanae Tsushima"
+            ]
+        },
+        {
+            "author_name": "Jose Nuno Macedo",
+            "url": "https://dblp.uni-trier.de/pid/246/3431.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Francisco Ribeiro",
+                "Kanae Tsushima"
+            ]
+        },
+        {
+            "author_name": "Kanae Tsushima",
+            "url": "https://dblp.uni-trier.de/pid/141/3118.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Francisco Ribeiro"
+            ]
+        },
+        {
+            "author_name": "Ridwan Shariffdeen",
+            "url": "https://dblp.uni-trier.de/pid/285/7422.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Martin Mirchev",
+                "Shin Hwei Tan",
+                "Abhik Roychoudhury"
+            ]
+        },
+        {
+            "author_name": "Martin Mirchev",
+            "url": "https://dblp.uni-trier.de/pid/351/7622.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ridwan Shariffdeen",
+                "Abhik Roychoudhury",
+                "Shin Hwei Tan"
+            ]
+        },
+        {
+            "author_name": "Abhik Roychoudhury",
+            "url": "https://dblp.uni-trier.de/pid/04/5884.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Sergey Mechtaev",
+                "Ridwan Shariffdeen",
+                "Jinsheng Ba",
+                "Martin Mirchev",
+                "Shin Hwei Tan"
+            ]
+        },
+        {
+            "author_name": "Dominik Sobania",
+            "url": "https://dblp.uni-trier.de/pid/222/3766.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Martin Briesch",
+                "Carol Hanna",
+                "Justyna Petke"
+            ]
+        },
+        {
+            "author_name": "Martin Briesch",
+            "url": "https://dblp.uni-trier.de/pid/294/6566.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Carol Hanna",
+                "Justyna Petke",
+                "Dominik Sobania"
+            ]
+        },
+        {
+            "author_name": "Carol Hanna",
+            "url": "https://dblp.uni-trier.de/pid/338/6143.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Justyna Petke",
+                "Dominik Sobania",
+                "Martin Briesch"
+            ]
+        },
+        {
+            "author_name": "Justyna Petke",
+            "url": "https://dblp.uni-trier.de/pid/23/8779.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shin Yoo",
+                "David Clark",
+                "Westley Weimer",
+                "Gabin An",
+                "Dominik Sobania",
+                "Martin Briesch",
+                "Earl T. Barr",
+                "Shin Hwei Tan",
+                "Carol Hanna"
+            ]
+        },
+        {
+            "author_name": "Shin Hwei Tan",
+            "url": "https://dblp.uni-trier.de/pid/16/9656.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Westley Weimer",
+                "Sergey Mechtaev",
+                "Ridwan Shariffdeen",
+                "Dongsun Kim",
+                "Gabin An",
+                "Abhik Roychoudhury",
+                "Yuriy Brun",
+                "Martin Mirchev",
+                "Justyna Petke",
+                "Christopher Steven Timperley"
+            ]
+        },
+        {
+            "author_name": "Dongsun Kim",
+            "url": "https://dblp.uni-trier.de/pid/236/3462.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Sergey Mechtaev",
+                "Shin Hwei Tan",
+                "Yuriy Brun"
+            ]
+        },
+        {
+            "author_name": "Sergey Mechtaev",
+            "url": "https://dblp.uni-trier.de/pid/167/0202.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jonathan Bell",
+                "Earl T. Barr",
+                "Shin Hwei Tan",
+                "Abhik Roychoudhury",
+                "Christopher Steven Timperley",
+                "Dongsun Kim",
+                "Yuriy Brun",
+                "Michael Hilton"
+            ]
+        },
+        {
+            "author_name": "Yuriy Brun",
+            "url": "https://dblp.uni-trier.de/pid/51/1518.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Westley Weimer",
+                "Sergey Mechtaev",
+                "Emily First",
+                "Shizhuo Zhang",
+                "Dongsun Kim",
+                "Tom Reichel",
+                "Timothy Zhou",
+                "Arpan Agrawal",
+                "Kevin Moran",
+                "Earl T. Barr",
+                "Shin Hwei Tan",
+                "Alex Sanchez-Stern",
+                "Talia Ringer",
+                "Zhanna Kaufman"
+            ]
+        },
+        {
+            "author_name": "Alex Brown",
+            "url": "https://dblp.uni-trier.de/pid/64/98.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jin B. Hong",
+                "Tze-Wen Lee"
+            ]
+        },
+        {
+            "author_name": "Tze-Wen Lee",
+            "url": "https://dblp.uni-trier.de/pid/353/6346.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jin B. Hong",
+                "Alex Brown"
+            ]
+        },
+        {
+            "author_name": "Jin B. Hong",
+            "url": "https://dblp.uni-trier.de/pid/132/5717.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Tze-Wen Lee",
+                "Alex Brown"
+            ]
+        },
+        {
+            "author_name": "Johannes de Haan",
+            "url": "https://dblp.uni-trier.de/pid/12/6590.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Abdel Youssouf"
+            ]
+        },
+        {
+            "author_name": "Abdel Youssouf",
+            "url": "https://dblp.uni-trier.de/pid/353/6429.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Johannes de Haan"
+            ]
+        },
+        {
+            "author_name": "Ita Ryan",
+            "url": "https://dblp.uni-trier.de/pid/299/2262.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Utz Roedig",
+                "Klaas-Jan Stol"
+            ]
+        },
+        {
+            "author_name": "Klaas-Jan Stol",
+            "url": "https://dblp.uni-trier.de/pid/08/7091.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ita Ryan",
+                "Utz Roedig",
+                "Daniel Graziotin",
+                "Muhammad Ali Babar"
+            ]
+        },
+        {
+            "author_name": "Utz Roedig",
+            "url": "https://dblp.uni-trier.de/pid/43/2282.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ita Ryan",
+                "Klaas-Jan Stol"
+            ]
+        },
+        {
+            "author_name": "Kayode Yakub Saheed",
+            "url": "https://dblp.uni-trier.de/pid/283/5100.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Sabarathinam Chockalingam",
+                "Sanjay Misra"
+            ]
+        },
+        {
+            "author_name": "Sanjay Misra",
+            "url": "https://dblp.uni-trier.de/pid/86/20.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kayode Yakub Saheed",
+                "Sabarathinam Chockalingam"
+            ]
+        },
+        {
+            "author_name": "Sabarathinam Chockalingam",
+            "url": "https://dblp.uni-trier.de/pid/151/6640.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kayode Yakub Saheed",
+                "Sanjay Misra"
+            ]
+        },
+        {
+            "author_name": "Joshua Ammermann",
+            "url": "https://dblp.uni-trier.de/pid/350/5147.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Tim Bittner",
+                "Domenik Eichhorn",
+                "Christoph Seidl",
+                "Ina Schaefer"
+            ]
+        },
+        {
+            "author_name": "Tim Bittner",
+            "url": "https://dblp.uni-trier.de/pid/273/2181.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Joshua Ammermann",
+                "Domenik Eichhorn",
+                "Christoph Seidl",
+                "Ina Schaefer"
+            ]
+        },
+        {
+            "author_name": "Domenik Eichhorn",
+            "url": "https://dblp.uni-trier.de/pid/277/3003.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Joshua Ammermann",
+                "Tim Bittner",
+                "Christoph Seidl",
+                "Ina Schaefer"
+            ]
+        },
+        {
+            "author_name": "Ina Schaefer",
+            "url": "https://dblp.uni-trier.de/pid/03/4484.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Julia Rubin",
+                "Bernhard Rumpe",
+                "Domenik Eichhorn",
+                "Tim Bittner",
+                "Joshua Ammermann",
+                "Christoph Seidl"
+            ]
+        },
+        {
+            "author_name": "Christoph Seidl",
+            "url": "https://dblp.uni-trier.de/pid/118/4031-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Joshua Ammermann",
+                "Ina Schaefer",
+                "Domenik Eichhorn",
+                "Tim Bittner",
+                "Julia Rubin"
+            ]
+        },
+        {
+            "author_name": "Philippe Codognet",
+            "url": "https://dblp.uni-trier.de/pid/37/5371.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": []
+        },
+        {
+            "author_name": "Aidan Evans",
+            "url": "https://dblp.uni-trier.de/pid/318/9025.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Robert Rand",
+                "Seun Omonije"
+            ]
+        },
+        {
+            "author_name": "Seun Omonije",
+            "url": "https://dblp.uni-trier.de/pid/318/9060.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Robert Rand",
+                "Aidan Evans"
+            ]
+        },
+        {
+            "author_name": "Robert Soule",
+            "url": "https://dblp.uni-trier.de/pid/49/6828.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Aidan Evans",
+                "Robert Rand",
+                "Seun Omonije"
+            ]
+        },
+        {
+            "author_name": "Robert Rand",
+            "url": "https://dblp.uni-trier.de/pid/55/10359.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Aidan Evans",
+                "Seun Omonije"
+            ]
+        },
+        {
+            "author_name": "Hector D. Menendez",
+            "url": "https://dblp.uni-trier.de/pid/45/9854.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "David Clark",
+                "Luciano Bello",
+                "Earl T. Barr"
+            ]
+        },
+        {
+            "author_name": "Luciano Bello",
+            "url": "https://dblp.uni-trier.de/pid/116/5005.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "David Clark"
+            ]
+        },
+        {
+            "author_name": "David Clark",
+            "url": "https://dblp.uni-trier.de/pid/40/4629-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shin Yoo",
+                "Luciano Bello",
+                "Earl T. Barr",
+                "Justyna Petke"
+            ]
+        },
+        {
+            "author_name": "Javier Sanchez-Rivero",
+            "url": "https://dblp.uni-trier.de/pid/342/3843.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Juan Manuel Murillo"
+            ]
+        },
+        {
+            "author_name": "Daniel Talavan",
+            "url": "https://dblp.uni-trier.de/pid/342/4419.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Javier Sanchez-Rivero",
+                "Juan Manuel Murillo"
+            ]
+        },
+        {
+            "author_name": "Jose Garcia-Alonso",
+            "url": "https://dblp.uni-trier.de/pid/69/8215.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Javier Sanchez-Rivero",
+                "Juan Manuel Murillo"
+            ]
+        },
+        {
+            "author_name": "Antonio Ruiz-Cortes",
+            "url": "https://dblp.uni-trier.de/pid/c/AntonioRuizCortes.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Javier Sanchez-Rivero",
+                "Juan Manuel Murillo"
+            ]
+        },
+        {
+            "author_name": "Juan Manuel Murillo",
+            "url": "https://dblp.uni-trier.de/pid/m/JuanManuelMurillo.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Javier Sanchez-Rivero"
+            ]
+        },
+        {
+            "author_name": "Shangzhou Xia",
+            "url": "https://dblp.uni-trier.de/pid/194/0867.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jianjun Zhao"
+            ]
+        },
+        {
+            "author_name": "Jianjun Zhao",
+            "url": "https://dblp.uni-trier.de/pid/71/6948-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Xiongfei Wu",
+                "Yi Li",
+                "Zhuo Li",
+                "Pengzhan Zhao"
+            ]
+        },
+        {
+            "author_name": "Masaomi Yamaguchi",
+            "url": "https://dblp.uni-trier.de/pid/268/3801.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Nobukazu Yoshioka"
+            ]
+        },
+        {
+            "author_name": "Nobukazu Yoshioka",
+            "url": "https://dblp.uni-trier.de/pid/12/2475.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Masaomi Yamaguchi",
+                "Bashar Nuseibeh"
+            ]
+        },
+        {
+            "author_name": "Pengzhan Zhao",
+            "url": "https://dblp.uni-trier.de/pid/271/5947.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Zhuo Li",
+                "Jianjun Zhao",
+                "Xiongfei Wu"
+            ]
+        },
+        {
+            "author_name": "Xiongfei Wu",
+            "url": "https://dblp.uni-trier.de/pid/274/4218.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Zhuo Li",
+                "Jianjun Zhao",
+                "Pengzhan Zhao"
+            ]
+        },
+        {
+            "author_name": "Zhuo Li",
+            "url": "https://dblp.uni-trier.de/pid/51/4015.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Pengzhan Zhao",
+                "Jianjun Zhao",
+                "Xiongfei Wu"
+            ]
+        },
+        {
+            "author_name": "Shaukat Ali",
+            "url": "https://dblp.uni-trier.de/pid/25/5352-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Rui Abreu",
+                "Tao Yue"
+            ]
+        },
+        {
+            "author_name": "Tao Yue",
+            "url": "https://dblp.uni-trier.de/pid/40/7423-2.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shaukat Ali",
+                "Rui Abreu"
+            ]
+        },
+        {
+            "author_name": "Dirk Beyer",
+            "url": "https://dblp.uni-trier.de/pid/b/DirkBeyer1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jonathan Bell",
+                "Arie van Deursen",
+                "Sudeep Kanav",
+                "Michael Hilton",
+                "Henrik Wachowitz",
+                "Christopher Steven Timperley"
+            ]
+        },
+        {
+            "author_name": "Sudeep Kanav",
+            "url": "https://dblp.uni-trier.de/pid/98/10411.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Dirk Beyer",
+                "Henrik Wachowitz"
+            ]
+        },
+        {
+            "author_name": "Henrik Wachowitz",
+            "url": "https://dblp.uni-trier.de/pid/351/7972.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Dirk Beyer",
+                "Sudeep Kanav"
+            ]
+        },
+        {
+            "author_name": "S M Hasan Mansur",
+            "url": "https://dblp.uni-trier.de/pid/295/8531.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kevin Moran",
+                "Julia Rubin"
+            ]
+        },
+        {
+            "author_name": "Kevin Moran",
+            "url": "https://dblp.uni-trier.de/pid/151/7453.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Yuriy Brun",
+                "S M Hasan Mansur",
+                "Julia Rubin"
+            ]
+        },
+        {
+            "author_name": "Arpan Agrawal",
+            "url": "https://dblp.uni-trier.de/pid/351/8584.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Zhanna Kaufman",
+                "Emily First",
+                "Tom Reichel",
+                "Alex Sanchez-Stern",
+                "Yuriy Brun",
+                "Talia Ringer",
+                "Timothy Zhou",
+                "Shizhuo Zhang"
+            ]
+        },
+        {
+            "author_name": "Emily First",
+            "url": "https://dblp.uni-trier.de/pid/280/5467.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Zhanna Kaufman",
+                "Alex Sanchez-Stern",
+                "Yuriy Brun",
+                "Tom Reichel",
+                "Arpan Agrawal",
+                "Talia Ringer",
+                "Timothy Zhou",
+                "Shizhuo Zhang"
+            ]
+        },
+        {
+            "author_name": "Zhanna Kaufman",
+            "url": "https://dblp.uni-trier.de/pid/318/8972.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Emily First",
+                "Alex Sanchez-Stern",
+                "Yuriy Brun",
+                "Tom Reichel",
+                "Arpan Agrawal",
+                "Talia Ringer",
+                "Timothy Zhou",
+                "Shizhuo Zhang"
+            ]
+        },
+        {
+            "author_name": "Tom Reichel",
+            "url": "https://dblp.uni-trier.de/pid/351/7840.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Zhanna Kaufman",
+                "Emily First",
+                "Alex Sanchez-Stern",
+                "Yuriy Brun",
+                "Arpan Agrawal",
+                "Talia Ringer",
+                "Timothy Zhou",
+                "Shizhuo Zhang"
+            ]
+        },
+        {
+            "author_name": "Shizhuo Zhang",
+            "url": "https://dblp.uni-trier.de/pid/305/0627.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Tom Reichel",
+                "Timothy Zhou",
+                "Emily First",
+                "Alex Sanchez-Stern",
+                "Talia Ringer",
+                "Arpan Agrawal",
+                "Zhanna Kaufman",
+                "Yuriy Brun"
+            ]
+        },
+        {
+            "author_name": "Timothy Zhou",
+            "url": "https://dblp.uni-trier.de/pid/236/5650.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Zhanna Kaufman",
+                "Emily First",
+                "Alex Sanchez-Stern",
+                "Yuriy Brun",
+                "Tom Reichel",
+                "Arpan Agrawal",
+                "Talia Ringer",
+                "Shizhuo Zhang"
+            ]
+        },
+        {
+            "author_name": "Alex Sanchez-Stern",
+            "url": "https://dblp.uni-trier.de/pid/163/3172.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Tom Reichel",
+                "Timothy Zhou",
+                "Emily First",
+                "Talia Ringer",
+                "Arpan Agrawal",
+                "Shizhuo Zhang",
+                "Zhanna Kaufman",
+                "Yuriy Brun"
+            ]
+        },
+        {
+            "author_name": "Talia Ringer",
+            "url": "https://dblp.uni-trier.de/pid/187/8968.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Tom Reichel",
+                "Timothy Zhou",
+                "Emily First",
+                "Alex Sanchez-Stern",
+                "Arpan Agrawal",
+                "Shizhuo Zhang",
+                "Zhanna Kaufman",
+                "Yuriy Brun"
+            ]
+        },
+        {
+            "author_name": "Fozail Ahmad",
+            "url": "https://dblp.uni-trier.de/pid/351/7281.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Neeraj Katiyar",
+                "Martin Staniszewski",
+                "Maruthi Rangappa"
+            ]
+        },
+        {
+            "author_name": "Hammad Ahmad",
+            "url": "https://dblp.uni-trier.de/pid/199/7365.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jean-Baptiste Jeannin",
+                "Westley Weimer",
+                "Amir Kamil",
+                "Zachary Karas",
+                "Kimberly Diaz"
+            ]
+        },
+        {
+            "author_name": "Zachary Karas",
+            "url": "https://dblp.uni-trier.de/pid/286/5225.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Amir Kamil",
+                "Jean-Baptiste Jeannin",
+                "Westley Weimer",
+                "Hammad Ahmad",
+                "Kimberly Diaz"
+            ]
+        },
+        {
+            "author_name": "Kimberly Diaz",
+            "url": "https://dblp.uni-trier.de/pid/351/8637.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Amir Kamil",
+                "Zachary Karas",
+                "Jean-Baptiste Jeannin",
+                "Westley Weimer",
+                "Hammad Ahmad"
+            ]
+        },
+        {
+            "author_name": "Amir Kamil",
+            "url": "https://dblp.uni-trier.de/pid/73/5929.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jean-Baptiste Jeannin",
+                "Westley Weimer",
+                "Zachary Karas",
+                "Hammad Ahmad",
+                "Kimberly Diaz"
+            ]
+        },
+        {
+            "author_name": "Jean-Baptiste Jeannin",
+            "url": "https://dblp.uni-trier.de/pid/11/10454.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Westley Weimer",
+                "Zachary Karas",
+                "Amir Kamil",
+                "Kimberly Diaz",
+                "Hammad Ahmad"
+            ]
+        },
+        {
+            "author_name": "Westley Weimer",
+            "url": "https://dblp.uni-trier.de/pid/05/4127.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shin Yoo",
+                "Zachary Karas",
+                "Jean-Baptiste Jeannin",
+                "Gabin An",
+                "Amir Kamil",
+                "Yuriy Brun",
+                "Bonita Sharif",
+                "Shin Hwei Tan",
+                "Kimberly Diaz",
+                "Justyna Petke",
+                "Hammad Ahmad",
+                "Christopher Steven Timperley"
+            ]
+        },
+        {
+            "author_name": "Maruthi Rangappa",
+            "url": "https://dblp.uni-trier.de/pid/352/0302.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Neeraj Katiyar",
+                "Martin Staniszewski",
+                "Fozail Ahmad"
+            ]
+        },
+        {
+            "author_name": "Neeraj Katiyar",
+            "url": "https://dblp.uni-trier.de/pid/352/0119.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Martin Staniszewski",
+                "Maruthi Rangappa",
+                "Fozail Ahmad"
+            ]
+        },
+        {
+            "author_name": "Martin Staniszewski",
+            "url": "https://dblp.uni-trier.de/pid/249/0290.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Neeraj Katiyar",
+                "Maruthi Rangappa",
+                "Fozail Ahmad"
+            ]
+        },
+        {
+            "author_name": "Daniel Varro",
+            "url": "https://dblp.uni-trier.de/pid/53/1883.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Fozail Ahmad",
+                "Neeraj Katiyar",
+                "Martin Staniszewski",
+                "Maruthi Rangappa"
+            ]
+        },
+        {
+            "author_name": "Toufique Ahmed",
+            "url": "https://dblp.uni-trier.de/pid/183/1406.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Chetan Bansal",
+                "Supriyo Ghosh",
+                "Xuchao Zhang",
+                "Md. Mahim Anjum Haque",
+                "Arie van Deursen",
+                "Earl T. Barr",
+                "Thomas Zimmermann",
+                "Saravan Rajmohan"
+            ]
+        },
+        {
+            "author_name": "Supriyo Ghosh",
+            "url": "https://dblp.uni-trier.de/pid/133/2312.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Chetan Bansal",
+                "Xuchao Zhang",
+                "Thomas Zimmermann",
+                "Saravan Rajmohan",
+                "Toufique Ahmed"
+            ]
+        },
+        {
+            "author_name": "Chetan Bansal",
+            "url": "https://dblp.uni-trier.de/pid/47/9801.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Thomas Zimmermann",
+                "Supriyo Ghosh",
+                "Arie van Deursen",
+                "Toufique Ahmed",
+                "Xuchao Zhang",
+                "Saravan Rajmohan"
+            ]
+        },
+        {
+            "author_name": "Thomas Zimmermann",
+            "url": "https://dblp.uni-trier.de/pid/19/3622-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Chetan Bansal",
+                "Supriyo Ghosh",
+                "Arie van Deursen",
+                "Toufique Ahmed",
+                "Xuchao Zhang",
+                "Earl T. Barr",
+                "Saravan Rajmohan",
+                "Laurie A. Williams"
+            ]
+        },
+        {
+            "author_name": "Xuchao Zhang",
+            "url": "https://dblp.uni-trier.de/pid/188/3475.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Thomas Zimmermann",
+                "Chetan Bansal",
+                "Supriyo Ghosh",
+                "Toufique Ahmed",
+                "Saravan Rajmohan"
+            ]
+        },
+        {
+            "author_name": "Saravan Rajmohan",
+            "url": "https://dblp.uni-trier.de/pid/313/9883.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Thomas Zimmermann",
+                "Chetan Bansal",
+                "Supriyo Ghosh",
+                "Toufique Ahmed",
+                "Xuchao Zhang"
+            ]
+        },
+        {
+            "author_name": "Salman Ahmed",
+            "url": "https://dblp.uni-trier.de/pid/80/6689.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Brendan Doherty",
+                "Effirul I. Ramlan",
+                "Magda Bucholc",
+                "Muskaan Singh",
+                "Damien Coyle",
+                "Kathryn Harkin"
+            ]
+        },
+        {
+            "author_name": "Muskaan Singh",
+            "url": "https://dblp.uni-trier.de/pid/249/4543.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Effirul I. Ramlan",
+                "Kathryn Harkin",
+                "Magda Bucholc",
+                "Damien Coyle",
+                "Salman Ahmed",
+                "Brendan Doherty"
+            ]
+        },
+        {
+            "author_name": "Brendan Doherty",
+            "url": "https://dblp.uni-trier.de/pid/353/1548.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Magda Bucholc",
+                "Effirul I. Ramlan",
+                "Muskaan Singh",
+                "Damien Coyle",
+                "Salman Ahmed",
+                "Kathryn Harkin"
+            ]
+        },
+        {
+            "author_name": "Effirul I. Ramlan",
+            "url": "https://dblp.uni-trier.de/pid/63/9716.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Muskaan Singh",
+                "Magda Bucholc",
+                "Damien Coyle",
+                "Salman Ahmed",
+                "Brendan Doherty",
+                "Kathryn Harkin"
+            ]
+        },
+        {
+            "author_name": "Kathryn Harkin",
+            "url": "https://dblp.uni-trier.de/pid/353/1476.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Magda Bucholc",
+                "Effirul I. Ramlan",
+                "Muskaan Singh",
+                "Damien Coyle",
+                "Salman Ahmed",
+                "Brendan Doherty"
+            ]
+        },
+        {
+            "author_name": "Magda Bucholc",
+            "url": "https://dblp.uni-trier.de/pid/242/7420.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Effirul I. Ramlan",
+                "Muskaan Singh",
+                "Damien Coyle",
+                "Salman Ahmed",
+                "Brendan Doherty",
+                "Kathryn Harkin"
+            ]
+        },
+        {
+            "author_name": "Damien Coyle",
+            "url": "https://dblp.uni-trier.de/pid/16/4185.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Brendan Doherty",
+                "Effirul I. Ramlan",
+                "Magda Bucholc",
+                "Muskaan Singh",
+                "Kathryn Harkin",
+                "Salman Ahmed"
+            ]
+        },
+        {
+            "author_name": "Eman Abdullah AlOmar",
+            "url": "https://dblp.uni-trier.de/pid/243/1650.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Wajdi Aljedaani",
+                "Salma Abdullah AlOmar",
+                "Mohamed Wiem Mkaouer",
+                "Anthony Peruma"
+            ]
+        },
+        {
+            "author_name": "Salma Abdullah AlOmar",
+            "url": "https://dblp.uni-trier.de/pid/340/3724.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mohamed Wiem Mkaouer",
+                "Eman Abdullah AlOmar"
+            ]
+        },
+        {
+            "author_name": "Mohamed Wiem Mkaouer",
+            "url": "https://dblp.uni-trier.de/pid/140/0883.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Wajdi Aljedaani",
+                "Salma Abdullah AlOmar",
+                "Stephanie Ludi",
+                "Eman Abdullah AlOmar",
+                "Anthony Peruma",
+                "Jonathan I. Maletic"
+            ]
+        },
+        {
+            "author_name": "Wajdi Aljedaani",
+            "url": "https://dblp.uni-trier.de/pid/245/7683.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Stephanie Ludi",
+                "Mohamed Wiem Mkaouer",
+                "Eman Abdullah AlOmar",
+                "Anthony Peruma"
+            ]
+        },
+        {
+            "author_name": "Anthony Peruma",
+            "url": "https://dblp.uni-trier.de/pid/200/2545.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Wajdi Aljedaani",
+                "Stephanie Ludi",
+                "Mohamed Wiem Mkaouer",
+                "Eman Abdullah AlOmar",
+                "Ivano Malavolta"
+            ]
+        },
+        {
+            "author_name": "Stephanie Ludi",
+            "url": "https://dblp.uni-trier.de/pid/58/3375.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Wajdi Aljedaani",
+                "Anthony Peruma",
+                "Mohamed Wiem Mkaouer"
+            ]
+        },
+        {
+            "author_name": "Luis Almeida",
+            "url": "https://dblp.uni-trier.de/pid/a/LuisAlmeida.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Rui Abreu",
+                "Miguel Gonzaga"
+            ]
+        },
+        {
+            "author_name": "Miguel Gonzaga",
+            "url": "https://dblp.uni-trier.de/pid/351/8576.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Rui Abreu"
+            ]
+        },
+        {
+            "author_name": "Jose Fragoso Santos",
+            "url": "https://dblp.uni-trier.de/pid/121/5552.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Miguel Gonzaga",
+                "Rui Abreu"
+            ]
+        },
+        {
+            "author_name": "Rui Abreu",
+            "url": "https://dblp.uni-trier.de/pid/00/6243.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shaukat Ali",
+                "Arie van Deursen",
+                "Tao Yue",
+                "Luis Cruz",
+                "Michael Hilton",
+                "Miguel Gonzaga",
+                "Francisco Ribeiro"
+            ]
+        },
+        {
+            "author_name": "Gal Amram",
+            "url": "https://dblp.uni-trier.de/pid/132/9195.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jan Oliver Ringert",
+                "Shahar Maoz",
+                "Dor Ma'ayan",
+                "Or Pistiner"
+            ]
+        },
+        {
+            "author_name": "Dor Ma'ayan",
+            "url": "https://dblp.uni-trier.de/pid/208/7469.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jan Oliver Ringert",
+                "Shahar Maoz",
+                "Gal Amram",
+                "Or Pistiner"
+            ]
+        },
+        {
+            "author_name": "Shahar Maoz",
+            "url": "https://dblp.uni-trier.de/pid/m/ShaharMaoz.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jan Oliver Ringert",
+                "Bernhard Rumpe",
+                "Gal Amram",
+                "Dor Ma'ayan",
+                "Or Pistiner"
+            ]
+        },
+        {
+            "author_name": "Or Pistiner",
+            "url": "https://dblp.uni-trier.de/pid/190/7681.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jan Oliver Ringert",
+                "Gal Amram",
+                "Dor Ma'ayan",
+                "Shahar Maoz"
+            ]
+        },
+        {
+            "author_name": "Jan Oliver Ringert",
+            "url": "https://dblp.uni-trier.de/pid/04/7076.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Bernhard Rumpe",
+                "Amel Bennaceur",
+                "Shahar Maoz",
+                "Bashar Nuseibeh",
+                "Gal Amram",
+                "Dor Ma'ayan",
+                "Or Pistiner"
+            ]
+        },
+        {
+            "author_name": "Gabin An",
+            "url": "https://dblp.uni-trier.de/pid/225/3675.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shin Yoo",
+                "Westley Weimer",
+                "Jingun Hong",
+                "Shin Hwei Tan",
+                "Naryeong Kim",
+                "Christopher Steven Timperley",
+                "Justyna Petke"
+            ]
+        },
+        {
+            "author_name": "Jingun Hong",
+            "url": "https://dblp.uni-trier.de/pid/93/8239.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shin Yoo",
+                "Naryeong Kim",
+                "Gabin An"
+            ]
+        },
+        {
+            "author_name": "Naryeong Kim",
+            "url": "https://dblp.uni-trier.de/pid/336/3943.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jingun Hong",
+                "Shin Yoo",
+                "Gabin An"
+            ]
+        },
+        {
+            "author_name": "Shin Yoo",
+            "url": "https://dblp.uni-trier.de/pid/06/1626.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Westley Weimer",
+                "Jingun Hong",
+                "Dongsun Kim",
+                "David Clark",
+                "Gabin An",
+                "Naryeong Kim",
+                "Earl T. Barr",
+                "Justyna Petke"
+            ]
+        },
+        {
+            "author_name": "Ali Kazemi Arani",
+            "url": "https://dblp.uni-trier.de/pid/344/4925.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mansooreh Zahedi",
+                "Muhammad Ali Babar",
+                "Triet Huynh Minh Le"
+            ]
+        },
+        {
+            "author_name": "Mansooreh Zahedi",
+            "url": "https://dblp.uni-trier.de/pid/137/4679.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ali Kazemi Arani",
+                "Triet Huynh Minh Le",
+                "Muhammad Ali Babar"
+            ]
+        },
+        {
+            "author_name": "Triet Huynh Minh Le",
+            "url": "https://dblp.uni-trier.de/pid/238/5466.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ali Kazemi Arani",
+                "Mansooreh Zahedi",
+                "Muhammad Ali Babar"
+            ]
+        },
+        {
+            "author_name": "Muhammad Ali Babar",
+            "url": "https://dblp.uni-trier.de/pid/03/1909.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Bashar Nuseibeh",
+                "Klaas-Jan Stol",
+                "Ali Kazemi Arani",
+                "Triet Huynh Minh Le",
+                "Andrew Cain",
+                "Mansooreh Zahedi",
+                "Arie van Deursen"
+            ]
+        },
+        {
+            "author_name": "Alisa Arno",
+            "url": "https://dblp.uni-trier.de/pid/175/0129.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mikio Takeuchi",
+                "Futoshi Iwama"
+            ]
+        },
+        {
+            "author_name": "Futoshi Iwama",
+            "url": "https://dblp.uni-trier.de/pid/91/5012.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mikio Takeuchi",
+                "Alisa Arno"
+            ]
+        },
+        {
+            "author_name": "Mikio Takeuchi",
+            "url": "https://dblp.uni-trier.de/pid/74/6968.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Futoshi Iwama",
+                "Alisa Arno"
+            ]
+        },
+        {
+            "author_name": "Nowshin Nawar Arony",
+            "url": "https://dblp.uni-trier.de/pid/253/4237.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kezia Devathasan",
+                "Daniela E. Damian",
+                "Ze Shi Li"
+            ]
+        },
+        {
+            "author_name": "Kezia Devathasan",
+            "url": "https://dblp.uni-trier.de/pid/334/9012.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Daniela E. Damian",
+                "Nowshin Nawar Arony",
+                "Ze Shi Li"
+            ]
+        },
+        {
+            "author_name": "Ze Shi Li",
+            "url": "https://dblp.uni-trier.de/pid/247/5207.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Kezia Devathasan",
+                "Daniela E. Damian",
+                "Nowshin Nawar Arony"
+            ]
+        },
+        {
+            "author_name": "Daniela E. Damian",
+            "url": "https://dblp.uni-trier.de/pid/d/DanielaEDamian.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Nowshin Nawar Arony",
+                "Ze Shi Li",
+                "Laurie A. Williams",
+                "Kezia Devathasan"
+            ]
+        },
+        {
+            "author_name": "Chetan Arora",
+            "url": "https://dblp.uni-trier.de/pid/19/1006-2.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Kevin Lee",
+                "Laura Tubino",
+                "Vasudha Malhotra",
+                "Jonathan Kua",
+                "Andrew Cain",
+                "Chathurika Ranaweera",
+                "Seng W. Loke"
+            ]
+        },
+        {
+            "author_name": "Laura Tubino",
+            "url": "https://dblp.uni-trier.de/pid/274/7959.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Chetan Arora",
+                "Jean-Guy Schneider",
+                "Kevin Lee",
+                "Andrew Cain",
+                "Vasudha Malhotra"
+            ]
+        },
+        {
+            "author_name": "Andrew Cain",
+            "url": "https://dblp.uni-trier.de/pid/76/5972.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Chetan Arora",
+                "Kevin Lee",
+                "Muhammad Ali Babar",
+                "Laura Tubino",
+                "Vasudha Malhotra",
+                "Jean-Guy Schneider"
+            ]
+        },
+        {
+            "author_name": "Vasudha Malhotra",
+            "url": "https://dblp.uni-trier.de/pid/340/3681.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Chetan Arora",
+                "Kevin Lee",
+                "Andrew Cain",
+                "Laura Tubino"
+            ]
+        },
+        {
+            "author_name": "Bimpe Ayoola",
+            "url": "https://dblp.uni-trier.de/pid/338/9113.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": []
+        },
+        {
+            "author_name": "Jinsheng Ba",
+            "url": "https://dblp.uni-trier.de/pid/318/0975.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Manuel Rigger",
+                "Abhik Roychoudhury"
+            ]
+        },
+        {
+            "author_name": "Manuel Rigger",
+            "url": "https://dblp.uni-trier.de/pid/133/8711.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Jinsheng Ba"
+            ]
+        },
+        {
+            "author_name": "Sahar Badihi",
+            "url": "https://dblp.uni-trier.de/pid/192/2005.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Khaled Ahmed",
+                "Yi Li",
+                "Julia Rubin"
+            ]
+        },
+        {
+            "author_name": "Khaled Ahmed",
+            "url": "https://dblp.uni-trier.de/pid/282/5825.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Sahar Badihi",
+                "Yi Li",
+                "Julia Rubin"
+            ]
+        },
+        {
+            "author_name": "Yi Li",
+            "url": "https://dblp.uni-trier.de/pid/59/871-8.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Khaled Ahmed",
+                "Sahar Badihi",
+                "Jianjun Zhao",
+                "Julia Rubin"
+            ]
+        },
+        {
+            "author_name": "Julia Rubin",
+            "url": "https://dblp.uni-trier.de/pid/26/4417.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Ina Schaefer",
+                "Khaled Ahmed",
+                "Sahar Badihi",
+                "Kevin Moran",
+                "Yi Li",
+                "Christoph Seidl"
+            ]
+        },
+        {
+            "author_name": "Razan Baltaji",
+            "url": "https://dblp.uni-trier.de/pid/353/1883.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Parth Thakkar"
+            ]
+        },
+        {
+            "author_name": "Parth Thakkar",
+            "url": "https://dblp.uni-trier.de/pid/220/5515.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Razan Baltaji"
+            ]
+        },
+        {
+            "author_name": "Abdul Ali Bangash",
+            "url": "https://dblp.uni-trier.de/pid/208/0748.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": []
+        },
+        {
+            "author_name": "Marvin Munoz Baron",
+            "url": "https://dblp.uni-trier.de/pid/271/0386.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Daniel Graziotin",
+                "Stefan Wagner",
+                "Marvin Wyrich"
+            ]
+        },
+        {
+            "author_name": "Marvin Wyrich",
+            "url": "https://dblp.uni-trier.de/pid/198/0841.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Stefan Wagner",
+                "Ivano Malavolta",
+                "Daniel Graziotin"
+            ]
+        },
+        {
+            "author_name": "Daniel Graziotin",
+            "url": "https://dblp.uni-trier.de/pid/130/4033.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Marvin Wyrich",
+                "Stefan Wagner",
+                "Klaas-Jan Stol"
+            ]
+        },
+        {
+            "author_name": "Stefan Wagner",
+            "url": "https://dblp.uni-trier.de/pid/w/StefanWagner1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Marvin Wyrich",
+                "Daniel Graziotin"
+            ]
+        },
+        {
+            "author_name": "Earl T. Barr",
+            "url": "https://dblp.uni-trier.de/pid/47/1088.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Shin Yoo",
+                "Sergey Mechtaev",
+                "Jonathan Bell",
+                "Thomas Zimmermann",
+                "David Clark",
+                "Yuriy Brun",
+                "Toufique Ahmed",
+                "Justyna Petke",
+                "Michael Hilton",
+                "Christopher Steven Timperley"
+            ]
+        },
+        {
+            "author_name": "Jonathan Bell",
+            "url": "https://dblp.uni-trier.de/pid/84/1826-1.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Dirk Beyer",
+                "Sergey Mechtaev",
+                "Earl T. Barr",
+                "Christopher Steven Timperley",
+                "Michael Hilton"
+            ]
+        },
+        {
+            "author_name": "Michael Hilton",
+            "url": "https://dblp.uni-trier.de/pid/116/7598.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Sergey Mechtaev",
+                "Jonathan Bell",
+                "Dirk Beyer",
+                "Rui Abreu",
+                "Earl T. Barr",
+                "Christopher Steven Timperley"
+            ]
+        },
+        {
+            "author_name": "Christopher Steven Timperley",
+            "url": "https://dblp.uni-trier.de/pid/205/1113.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Westley Weimer",
+                "Sergey Mechtaev",
+                "Jonathan Bell",
+                "Dirk Beyer",
+                "Gabin An",
+                "Earl T. Barr",
+                "Shin Hwei Tan",
+                "Michael Hilton"
+            ]
+        },
+        {
+            "author_name": "Mariam Barry",
+            "url": "https://dblp.uni-trier.de/pid/275/2756.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Albert Bifet",
+                "Jean-Luc Billy"
+            ]
+        },
+        {
+            "author_name": "Albert Bifet",
+            "url": "https://dblp.uni-trier.de/pid/48/1070.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mariam Barry",
+                "Jean-Luc Billy"
+            ]
+        },
+        {
+            "author_name": "Jean-Luc Billy",
+            "url": "https://dblp.uni-trier.de/pid/352/1013.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Mariam Barry",
+                "Albert Bifet"
+            ]
+        },
+        {
+            "author_name": "Setu Kumar Basak",
+            "url": "https://dblp.uni-trier.de/pid/327/7370.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Lorenzo Neil",
+                "Bradley Reaves",
+                "Laurie A. Williams"
+            ]
+        },
+        {
+            "author_name": "Lorenzo Neil",
+            "url": "https://dblp.uni-trier.de/pid/225/5243.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Setu Kumar Basak",
+                "Bradley Reaves",
+                "Laurie A. Williams"
+            ]
+        },
+        {
+            "author_name": "Bradley Reaves",
+            "url": "https://dblp.uni-trier.de/pid/117/3983.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Lorenzo Neil",
+                "Setu Kumar Basak",
+                "Laurie A. Williams"
+            ]
+        },
+        {
+            "author_name": "Laurie A. Williams",
+            "url": "https://dblp.uni-trier.de/pid/w/LaurieAWilliams.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Lorenzo Neil",
+                "Setu Kumar Basak",
+                "Thomas Zimmermann",
+                "Bradley Reaves",
+                "Daniela E. Damian"
+            ]
+        },
+        {
+            "author_name": "Amna Batool",
+            "url": "https://dblp.uni-trier.de/pid/172/7281.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Jonathan Kua",
+                "Seng W. Loke"
+            ]
+        },
+        {
+            "author_name": "Seng W. Loke",
+            "url": "https://dblp.uni-trier.de/pid/l/SengWaiLoke.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Kevin Lee",
+                "Chathurika Ranaweera",
+                "Chetan Arora",
+                "Jonathan Kua",
+                "Amna Batool"
+            ]
+        },
+        {
+            "author_name": "Niroshinie Fernando",
+            "url": "https://dblp.uni-trier.de/pid/62/10788.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Chetan Arora",
+                "Laura Tubino",
+                "Jonathan Kua",
+                "Amna Batool",
+                "Andrew Cain",
+                "Jean-Guy Schneider",
+                "Chathurika Ranaweera",
+                "Seng W. Loke"
+            ]
+        },
+        {
+            "author_name": "Jonathan Kua",
+            "url": "https://dblp.uni-trier.de/pid/192/3490.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Niroshinie Fernando",
+                "Chetan Arora",
+                "Kevin Lee",
+                "Amna Batool",
+                "Chathurika Ranaweera",
+                "Seng W. Loke"
+            ]
+        },
+        {
+            "author_name": "Joshua Behler",
+            "url": "https://dblp.uni-trier.de/pid/329/4104.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Bonita Sharif",
+                "Drew T. Guarnera",
+                "Jonathan I. Maletic",
+                "Praxis Weston"
+            ]
+        },
+        {
+            "author_name": "Praxis Weston",
+            "url": "https://dblp.uni-trier.de/pid/329/4361.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Bonita Sharif",
+                "Drew T. Guarnera",
+                "Joshua Behler",
+                "Jonathan I. Maletic"
+            ]
+        },
+        {
+            "author_name": "Drew T. Guarnera",
+            "url": "https://dblp.uni-trier.de/pid/193/4187.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Praxis Weston",
+                "Bonita Sharif",
+                "Jonathan I. Maletic",
+                "Joshua Behler"
+            ]
+        },
+        {
+            "author_name": "Bonita Sharif",
+            "url": "https://dblp.uni-trier.de/pid/08/3315.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Westley Weimer",
+                "Praxis Weston",
+                "Jonathan I. Maletic",
+                "Joshua Behler",
+                "Drew T. Guarnera"
+            ]
+        },
+        {
+            "author_name": "Jonathan I. Maletic",
+            "url": "https://dblp.uni-trier.de/pid/m/JonathanIMaletic.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Praxis Weston",
+                "Andrea Zisman",
+                "Joshua Behler",
+                "Mohamed Wiem Mkaouer",
+                "Drew T. Guarnera",
+                "Bonita Sharif"
+            ]
+        },
+        {
+            "author_name": "Amel Bennaceur",
+            "url": "https://dblp.uni-trier.de/pid/48/2068.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Bashar Nuseibeh",
+                "Diane Hassett",
+                "Andrea Zisman",
+                "Jan Oliver Ringert"
+            ]
+        },
+        {
+            "author_name": "Diane Hassett",
+            "url": "https://dblp.uni-trier.de/pid/308/0917.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Amel Bennaceur",
+                "Bashar Nuseibeh",
+                "Andrea Zisman"
+            ]
+        },
+        {
+            "author_name": "Bashar Nuseibeh",
+            "url": "https://dblp.uni-trier.de/pid/26/1319.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Amel Bennaceur",
+                "Diane Hassett",
+                "Andrea Zisman",
+                "Nobukazu Yoshioka",
+                "Muhammad Ali Babar",
+                "Jan Oliver Ringert"
+            ]
+        },
+        {
+            "author_name": "Andrea Zisman",
+            "url": "https://dblp.uni-trier.de/pid/91/3835.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": [
+                "Bashar Nuseibeh",
+                "Amel Bennaceur",
+                "Arie van Deursen",
+                "Jonathan I. Maletic",
+                "Diane Hassett"
+            ]
+        },
+        {
+            "author_name": "Leon Bettscheider",
+            "url": "https://dblp.uni-trier.de/pid/274/5801.html",
+            "coauthors": [],
+            "most_collaborated_with": null,
+            "children": []
+        }
+    ]
+}

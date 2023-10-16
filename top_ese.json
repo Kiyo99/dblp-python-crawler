@@ -1,0 +1,3520 @@
+{
+    "name": "ICSE Authors",
+    "children": [
+        {
+            "name": "Ahmed E. Hassan",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/96/8417.html",
+            "children": [
+                {
+                    "name": "Omar Fayez Mohamed El-Mahdy",
+                    "children": [
+                        {
+                            "name": "Omar Fayez Mohamed El-Mahdy",
+                            "url": "https://dblp.uni-trier.de/pid/94/8417.html",
+                            "value": 1,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sayed Metwalli",
+                    "children": [
+                        {
+                            "name": "Sayed Metwalli",
+                            "url": "https://dblp.uni-trier.de/pid/74/8417.html",
+                            "value": 1,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lionel C. Briand",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/93/1501.html",
+            "children": [
+                {
+                    "name": "Yvan Labiche",
+                    "children": [
+                        {
+                            "name": "Yvan Labiche",
+                            "url": "https://dblp.uni-trier.de/pid/52/1881.html",
+                            "value": 74,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mehrdad Sabetzadeh",
+                    "children": [
+                        {
+                            "name": "Mehrdad Sabetzadeh",
+                            "url": "https://dblp.uni-trier.de/pid/25/6367.html",
+                            "value": 71,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shiva Nejati",
+                    "children": [
+                        {
+                            "name": "Shiva Nejati",
+                            "url": "https://dblp.uni-trier.de/pid/57/3937.html",
+                            "value": 62,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabrizio Pastore",
+                    "children": [
+                        {
+                            "name": "Fabrizio Pastore",
+                            "url": "https://dblp.uni-trier.de/pid/61/1343.html",
+                            "value": 49,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Domenico Bianculli",
+                    "children": [
+                        {
+                            "name": "Domenico Bianculli",
+                            "url": "https://dblp.uni-trier.de/pid/b/DomenicoBianculli.html",
+                            "value": 43,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "David Lo 0001",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/89/6793-1.html",
+            "children": [
+                {
+                    "name": "Xin Xia 0001",
+                    "children": [
+                        {
+                            "name": "Xin Xia 0001",
+                            "url": "https://dblp.uni-trier.de/pid/06/2072-1.html",
+                            "value": 212,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ferdian Thung",
+                    "children": [
+                        {
+                            "name": "Ferdian Thung",
+                            "url": "https://dblp.uni-trier.de/pid/07/10158.html",
+                            "value": 95,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lingxiao Jiang",
+                    "children": [
+                        {
+                            "name": "Lingxiao Jiang",
+                            "url": "https://dblp.uni-trier.de/pid/82/3572.html",
+                            "value": 71,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanping Li",
+                    "children": [
+                        {
+                            "name": "Shanping Li",
+                            "url": "https://dblp.uni-trier.de/pid/35/1103.html",
+                            "value": 51,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Zhou Yang 0003",
+                    "children": [
+                        {
+                            "name": "Zhou Yang 0003",
+                            "url": "https://dblp.uni-trier.de/pid/323/9260-3.html",
+                            "value": 44,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foutse Khomh",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/32/147.html",
+            "children": [
+                {
+                    "name": "Giuliano Antoniol",
+                    "children": [
+                        {
+                            "name": "Giuliano Antoniol",
+                            "url": "https://dblp.uni-trier.de/pid/73/3515.html",
+                            "value": 67,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+                    "children": [
+                        {
+                            "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+                            "url": "https://dblp.uni-trier.de/pid/20/6995.html",
+                            "value": 65,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Amin Nikanjam",
+                    "children": [
+                        {
+                            "name": "Amin Nikanjam",
+                            "url": "https://dblp.uni-trier.de/pid/42/1656.html",
+                            "value": 29,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ying Zou 0001",
+                    "children": [
+                        {
+                            "name": "Ying Zou 0001",
+                            "url": "https://dblp.uni-trier.de/pid/55/3451-1.html",
+                            "value": 27,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bram Adams",
+                    "children": [
+                        {
+                            "name": "Bram Adams",
+                            "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Massimiliano Di Penta",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+            "children": [
+                {
+                    "name": "Gabriele Bavota",
+                    "children": [
+                        {
+                            "name": "Gabriele Bavota",
+                            "url": "https://dblp.uni-trier.de/pid/09/8523.html",
+                            "value": 83,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Rocco Oliveto",
+                    "children": [
+                        {
+                            "name": "Rocco Oliveto",
+                            "url": "https://dblp.uni-trier.de/pid/18/6986.html",
+                            "value": 71,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Giuliano Antoniol",
+                    "children": [
+                        {
+                            "name": "Giuliano Antoniol",
+                            "url": "https://dblp.uni-trier.de/pid/73/3515.html",
+                            "value": 67,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Gerardo Canfora",
+                    "children": [
+                        {
+                            "name": "Gerardo Canfora",
+                            "url": "https://dblp.uni-trier.de/pid/63/4434.html",
+                            "value": 58,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Denys Poshyvanyk",
+                    "children": [
+                        {
+                            "name": "Denys Poshyvanyk",
+                            "url": "https://dblp.uni-trier.de/pid/02/320.html",
+                            "value": 50,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Victor R. Basili",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/b/VRBasili.html",
+            "children": [
+                {
+                    "name": "Forrest Shull",
+                    "children": [
+                        {
+                            "name": "Forrest Shull",
+                            "url": "https://dblp.uni-trier.de/pid/18/462.html",
+                            "value": 36,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lionel C. Briand",
+                    "children": [
+                        {
+                            "name": "Lionel C. Briand",
+                            "url": "https://dblp.uni-trier.de/pid/93/1501.html",
+                            "value": 29,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Marvin V. Zelkowitz",
+                    "children": [
+                        {
+                            "name": "Marvin V. Zelkowitz",
+                            "url": "https://dblp.uni-trier.de/pid/z/MarvinVZelkowitz.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Carolyn B. Seaman",
+                    "children": [
+                        {
+                            "name": "Carolyn B. Seaman",
+                            "url": "https://dblp.uni-trier.de/pid/s/CarolynBSeaman.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Jeffrey C. Carver",
+                    "children": [
+                        {
+                            "name": "Jeffrey C. Carver",
+                            "url": "https://dblp.uni-trier.de/pid/c/JeffreyCCarver.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bram Adams",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 81,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Foutse Khomh",
+                    "children": [
+                        {
+                            "name": "Foutse Khomh",
+                            "url": "https://dblp.uni-trier.de/pid/32/147.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Zhen Ming (Jack) Jiang",
+                    "children": [
+                        {
+                            "name": "Zhen Ming (Jack) Jiang",
+                            "url": "https://dblp.uni-trier.de/pid/50/23.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Emad Shihab",
+                    "children": [
+                        {
+                            "name": "Emad Shihab",
+                            "url": "https://dblp.uni-trier.de/pid/05/5996.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Meiyappan Nagappan",
+                    "children": [
+                        {
+                            "name": "Meiyappan Nagappan",
+                            "url": "https://dblp.uni-trier.de/pid/27/2828.html",
+                            "value": 14,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xin Xia 0001",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/06/2072-1.html",
+            "children": [
+                {
+                    "name": "David Lo 0001",
+                    "children": [
+                        {
+                            "name": "David Lo 0001",
+                            "url": "https://dblp.uni-trier.de/pid/89/6793-1.html",
+                            "value": 212,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shanping Li",
+                    "children": [
+                        {
+                            "name": "Shanping Li",
+                            "url": "https://dblp.uni-trier.de/pid/35/1103.html",
+                            "value": 64,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Zhenchang Xing",
+                    "children": [
+                        {
+                            "name": "Zhenchang Xing",
+                            "url": "https://dblp.uni-trier.de/pid/52/6482.html",
+                            "value": 49,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "John C. Grundy",
+                    "children": [
+                        {
+                            "name": "John C. Grundy",
+                            "url": "https://dblp.uni-trier.de/pid/g/JohnCGrundy.html",
+                            "value": 47,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 37,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tim Menzies",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/m/TimMenzies.html",
+            "children": [
+                {
+                    "name": "Rahul Krishna",
+                    "children": [
+                        {
+                            "name": "Rahul Krishna",
+                            "url": "https://dblp.uni-trier.de/pid/138/9821.html",
+                            "value": 30,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Zhe Yu 0002",
+                    "children": [
+                        {
+                            "name": "Zhe Yu 0002",
+                            "url": "https://dblp.uni-trier.de/pid/32/9128-2.html",
+                            "value": 30,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Amritanshu Agrawal",
+                    "children": [
+                        {
+                            "name": "Amritanshu Agrawal",
+                            "url": "https://dblp.uni-trier.de/pid/180/3246.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Vivek Nair",
+                    "children": [
+                        {
+                            "name": "Vivek Nair",
+                            "url": "https://dblp.uni-trier.de/pid/185/0774.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Wei Fu 0002",
+                    "children": [
+                        {
+                            "name": "Wei Fu 0002",
+                            "url": "https://dblp.uni-trier.de/pid/26/4472-2.html",
+                            "value": 22,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cor-Paul Bezemer",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/95/7251.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 33,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Dayi Lin",
+                    "children": [
+                        {
+                            "name": "Dayi Lin",
+                            "url": "https://dblp.uni-trier.de/pid/187/9420.html",
+                            "value": 12,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Weiyi Shang",
+                    "children": [
+                        {
+                            "name": "Weiyi Shang",
+                            "url": "https://dblp.uni-trier.de/pid/96/7305.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Markos Viggiato",
+                    "children": [
+                        {
+                            "name": "Markos Viggiato",
+                            "url": "https://dblp.uni-trier.de/pid/223/6503.html",
+                            "value": 9,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Finlay Macklon",
+                    "children": [
+                        {
+                            "name": "Finlay Macklon",
+                            "url": "https://dblp.uni-trier.de/pid/311/5363.html",
+                            "value": 7,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Weiyi Shang",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/96/7305.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 44,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Tse-Hsun (Peter) Chen",
+                    "children": [
+                        {
+                            "name": "Tse-Hsun (Peter) Chen",
+                            "url": "https://dblp.uni-trier.de/pid/116/6782.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Heng Li 0007",
+                    "children": [
+                        {
+                            "name": "Heng Li 0007",
+                            "url": "https://dblp.uni-trier.de/pid/02/3672-7.html",
+                            "value": 21,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bram Adams",
+                    "children": [
+                        {
+                            "name": "Bram Adams",
+                            "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Cor-Paul Bezemer",
+                    "children": [
+                        {
+                            "name": "Cor-Paul Bezemer",
+                            "url": "https://dblp.uni-trier.de/pid/95/7251.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Alexander Serebrenik",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/s/AlexanderSerebrenik.html",
+            "children": [
+                {
+                    "name": "Mark van den Brand",
+                    "children": [
+                        {
+                            "name": "Mark van den Brand",
+                            "url": "https://dblp.uni-trier.de/pid/v/MarkvandenBrand.html",
+                            "value": 47,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bogdan Vasilescu",
+                    "children": [
+                        {
+                            "name": "Bogdan Vasilescu",
+                            "url": "https://dblp.uni-trier.de/pid/43/10504.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Danny De Schreye",
+                    "children": [
+                        {
+                            "name": "Danny De Schreye",
+                            "url": "https://dblp.uni-trier.de/pid/s/DannyDeSchreye.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Nicole Novielli",
+                    "children": [
+                        {
+                            "name": "Nicole Novielli",
+                            "url": "https://dblp.uni-trier.de/pid/09/1798.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ramon R. H. Schiffelers",
+                    "children": [
+                        {
+                            "name": "Ramon R. H. Schiffelers",
+                            "url": "https://dblp.uni-trier.de/pid/42/2894.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ying Zou 0001",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/55/3451-1.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 39,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Joanna W. Ng",
+                    "children": [
+                        {
+                            "name": "Joanna W. Ng",
+                            "url": "https://dblp.uni-trier.de/pid/63/8816.html",
+                            "value": 29,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Foutse Khomh",
+                    "children": [
+                        {
+                            "name": "Foutse Khomh",
+                            "url": "https://dblp.uni-trier.de/pid/32/147.html",
+                            "value": 27,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Iman Keivanloo",
+                    "children": [
+                        {
+                            "name": "Iman Keivanloo",
+                            "url": "https://dblp.uni-trier.de/pid/25/471.html",
+                            "value": 21,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shaohua Wang 0002",
+                    "children": [
+                        {
+                            "name": "Shaohua Wang 0002",
+                            "url": "https://dblp.uni-trier.de/pid/09/486-2.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Jeffrey C. Carver",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/c/JeffreyCCarver.html",
+            "children": [
+                {
+                    "name": "Gursimran Singh Walia",
+                    "children": [
+                        {
+                            "name": "Gursimran Singh Walia",
+                            "url": "https://dblp.uni-trier.de/pid/00/6421.html",
+                            "value": 24,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Forrest Shull",
+                    "children": [
+                        {
+                            "name": "Forrest Shull",
+                            "url": "https://dblp.uni-trier.de/pid/18/462.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Gary L. Bradshaw",
+                    "children": [
+                        {
+                            "name": "Gary L. Bradshaw",
+                            "url": "https://dblp.uni-trier.de/pid/96/4396.html",
+                            "value": 15,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Birgit Penzenstadler",
+                    "children": [
+                        {
+                            "name": "Birgit Penzenstadler",
+                            "url": "https://dblp.uni-trier.de/pid/92/3113.html",
+                            "value": 15,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Victor R. Basili",
+                    "children": [
+                        {
+                            "name": "Victor R. Basili",
+                            "url": "https://dblp.uni-trier.de/pid/b/VRBasili.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yann-Ga\u00ebl Gu\u00e9heneuc",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/20/6995.html",
+            "children": [
+                {
+                    "name": "Giuliano Antoniol",
+                    "children": [
+                        {
+                            "name": "Giuliano Antoniol",
+                            "url": "https://dblp.uni-trier.de/pid/73/3515.html",
+                            "value": 78,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Foutse Khomh",
+                    "children": [
+                        {
+                            "name": "Foutse Khomh",
+                            "url": "https://dblp.uni-trier.de/pid/32/147.html",
+                            "value": 65,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Naouel Moha",
+                    "children": [
+                        {
+                            "name": "Naouel Moha",
+                            "url": "https://dblp.uni-trier.de/pid/68/2341.html",
+                            "value": 46,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "F\u00e1bio Petrillo",
+                    "children": [
+                        {
+                            "name": "F\u00e1bio Petrillo",
+                            "url": "https://dblp.uni-trier.de/pid/84/5879.html",
+                            "value": 46,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Cristiano Politowski",
+                    "children": [
+                        {
+                            "name": "Cristiano Politowski",
+                            "url": "https://dblp.uni-trier.de/pid/180/3296.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Giuliano Antoniol",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/73/3515.html",
+            "children": [
+                {
+                    "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+                    "children": [
+                        {
+                            "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+                            "url": "https://dblp.uni-trier.de/pid/20/6995.html",
+                            "value": 78,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Foutse Khomh",
+                    "children": [
+                        {
+                            "name": "Foutse Khomh",
+                            "url": "https://dblp.uni-trier.de/pid/32/147.html",
+                            "value": 67,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Massimiliano Di Penta",
+                    "children": [
+                        {
+                            "name": "Massimiliano Di Penta",
+                            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+                            "value": 67,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ettore Merlo",
+                    "children": [
+                        {
+                            "name": "Ettore Merlo",
+                            "url": "https://dblp.uni-trier.de/pid/47/4667.html",
+                            "value": 47,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Paolo Tonella",
+                    "children": [
+                        {
+                            "name": "Paolo Tonella",
+                            "url": "https://dblp.uni-trier.de/pid/54/2734.html",
+                            "value": 30,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gabriele Bavota",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/09/8523.html",
+            "children": [
+                {
+                    "name": "Rocco Oliveto",
+                    "children": [
+                        {
+                            "name": "Rocco Oliveto",
+                            "url": "https://dblp.uni-trier.de/pid/18/6986.html",
+                            "value": 110,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Massimiliano Di Penta",
+                    "children": [
+                        {
+                            "name": "Massimiliano Di Penta",
+                            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+                            "value": 83,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Denys Poshyvanyk",
+                    "children": [
+                        {
+                            "name": "Denys Poshyvanyk",
+                            "url": "https://dblp.uni-trier.de/pid/02/320.html",
+                            "value": 60,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Andrea De Lucia",
+                    "children": [
+                        {
+                            "name": "Andrea De Lucia",
+                            "url": "https://dblp.uni-trier.de/pid/33/2785.html",
+                            "value": 52,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Michele Lanza",
+                    "children": [
+                        {
+                            "name": "Michele Lanza",
+                            "url": "https://dblp.uni-trier.de/pid/53/6708.html",
+                            "value": 45,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Claes Wohlin",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/w/ClaesWohlin.html",
+            "children": [
+                {
+                    "name": "Ayb\u00fcke Aurum",
+                    "children": [
+                        {
+                            "name": "Ayb\u00fcke Aurum",
+                            "url": "https://dblp.uni-trier.de/pid/49/1686.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Per Runeson",
+                    "children": [
+                        {
+                            "name": "Per Runeson",
+                            "url": "https://dblp.uni-trier.de/pid/24/24.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Darja Smite",
+                    "children": [
+                        {
+                            "name": "Darja Smite",
+                            "url": "https://dblp.uni-trier.de/pid/30/4138.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kai Petersen",
+                    "children": [
+                        {
+                            "name": "Kai Petersen",
+                            "url": "https://dblp.uni-trier.de/pid/63/2360.html",
+                            "value": 14,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin H\u00f6st",
+                    "children": [
+                        {
+                            "name": "Martin H\u00f6st",
+                            "url": "https://dblp.uni-trier.de/pid/07/6594.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Burak Turhan",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/62/1974.html",
+            "children": [
+                {
+                    "name": "Ayse Basar Bener",
+                    "children": [
+                        {
+                            "name": "Ayse Basar Bener",
+                            "url": "https://dblp.uni-trier.de/pid/55/2997.html",
+                            "value": 47,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Natalia Juristo Juzgado",
+                    "children": [
+                        {
+                            "name": "Natalia Juristo Juzgado",
+                            "url": "https://dblp.uni-trier.de/pid/35/4144.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Davide Fucci",
+                    "children": [
+                        {
+                            "name": "Davide Fucci",
+                            "url": "https://dblp.uni-trier.de/pid/70/9016.html",
+                            "value": 28,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayse Tosun Misirli",
+                    "children": [
+                        {
+                            "name": "Ayse Tosun Misirli",
+                            "url": "https://dblp.uni-trier.de/pid/87/963.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Simone Romano 0001",
+                    "children": [
+                        {
+                            "name": "Simone Romano 0001",
+                            "url": "https://dblp.uni-trier.de/pid/13/10505-1.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Emad Shihab",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/05/5996.html",
+            "children": [
+                {
+                    "name": "Diego Costa 0001",
+                    "children": [
+                        {
+                            "name": "Diego Costa 0001",
+                            "url": "https://dblp.uni-trier.de/pid/01/11078-1.html",
+                            "value": 33,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Rabe Abdalkareem",
+                    "children": [
+                        {
+                            "name": "Rabe Abdalkareem",
+                            "url": "https://dblp.uni-trier.de/pid/149/2653.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 22,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Suhaib Mujahid",
+                    "children": [
+                        {
+                            "name": "Suhaib Mujahid",
+                            "url": "https://dblp.uni-trier.de/pid/203/0013.html",
+                            "value": 21,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bram Adams",
+                    "children": [
+                        {
+                            "name": "Bram Adams",
+                            "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Daniel M. Germ\u00e1n",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/g/DanielMGerman.html",
+            "children": [
+                {
+                    "name": "Katsuro Inoue",
+                    "children": [
+                        {
+                            "name": "Katsuro Inoue",
+                            "url": "https://dblp.uni-trier.de/pid/33/779.html",
+                            "value": 24,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaret-Anne D. Storey",
+                    "children": [
+                        {
+                            "name": "Margaret-Anne D. Storey",
+                            "url": "https://dblp.uni-trier.de/pid/s/MargaretAnneDStorey.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Massimiliano Di Penta",
+                    "children": [
+                        {
+                            "name": "Massimiliano Di Penta",
+                            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+                            "value": 14,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Abram Hindle",
+                    "children": [
+                        {
+                            "name": "Abram Hindle",
+                            "url": "https://dblp.uni-trier.de/pid/76/2009.html",
+                            "value": 12,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Takashi Ishio",
+                    "children": [
+                        {
+                            "name": "Takashi Ishio",
+                            "url": "https://dblp.uni-trier.de/pid/66/39.html",
+                            "value": 12,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sven Apel",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/a/SvenApel.html",
+            "children": [
+                {
+                    "name": "Christian K\u00e4stner",
+                    "children": [
+                        {
+                            "name": "Christian K\u00e4stner",
+                            "url": "https://dblp.uni-trier.de/pid/85/3873.html",
+                            "value": 102,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Norbert Siegmund",
+                    "children": [
+                        {
+                            "name": "Norbert Siegmund",
+                            "url": "https://dblp.uni-trier.de/pid/99/1780.html",
+                            "value": 70,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Gunter Saake",
+                    "children": [
+                        {
+                            "name": "Gunter Saake",
+                            "url": "https://dblp.uni-trier.de/pid/s/GunterSaake.html",
+                            "value": 42,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Janet Siegmund",
+                    "children": [
+                        {
+                            "name": "Janet Siegmund",
+                            "url": "https://dblp.uni-trier.de/pid/88/7055.html",
+                            "value": 42,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Thomas Leich",
+                    "children": [
+                        {
+                            "name": "Thomas Leich",
+                            "url": "https://dblp.uni-trier.de/pid/00/3032.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Per Runeson",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/24/24.html",
+            "children": [
+                {
+                    "name": "Emelie Engstr\u00f6m",
+                    "children": [
+                        {
+                            "name": "Emelie Engstr\u00f6m",
+                            "url": "https://dblp.uni-trier.de/pid/31/2107.html",
+                            "value": 33,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Martin H\u00f6st",
+                    "children": [
+                        {
+                            "name": "Martin H\u00f6st",
+                            "url": "https://dblp.uni-trier.de/pid/07/6594.html",
+                            "value": 22,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Claes Wohlin",
+                    "children": [
+                        {
+                            "name": "Claes Wohlin",
+                            "url": "https://dblp.uni-trier.de/pid/w/ClaesWohlin.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bj\u00f6rn Regnell",
+                    "children": [
+                        {
+                            "name": "Bj\u00f6rn Regnell",
+                            "url": "https://dblp.uni-trier.de/pid/09/1284.html",
+                            "value": 18,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Johan Lin\u00e5ker",
+                    "children": [
+                        {
+                            "name": "Johan Lin\u00e5ker",
+                            "url": "https://dblp.uni-trier.de/pid/153/8224.html",
+                            "value": 15,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rocco Oliveto",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/18/6986.html",
+            "children": [
+                {
+                    "name": "Gabriele Bavota",
+                    "children": [
+                        {
+                            "name": "Gabriele Bavota",
+                            "url": "https://dblp.uni-trier.de/pid/09/8523.html",
+                            "value": 110,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Andrea De Lucia",
+                    "children": [
+                        {
+                            "name": "Andrea De Lucia",
+                            "url": "https://dblp.uni-trier.de/pid/33/2785.html",
+                            "value": 109,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Massimiliano Di Penta",
+                    "children": [
+                        {
+                            "name": "Massimiliano Di Penta",
+                            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+                            "value": 71,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Simone Scalabrino",
+                    "children": [
+                        {
+                            "name": "Simone Scalabrino",
+                            "url": "https://dblp.uni-trier.de/pid/183/2560.html",
+                            "value": 56,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Denys Poshyvanyk",
+                    "children": [
+                        {
+                            "name": "Denys Poshyvanyk",
+                            "url": "https://dblp.uni-trier.de/pid/02/320.html",
+                            "value": 43,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fabio Palomba",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/116/6732.html",
+            "children": [
+                {
+                    "name": "Andrea De Lucia",
+                    "children": [
+                        {
+                            "name": "Andrea De Lucia",
+                            "url": "https://dblp.uni-trier.de/pid/33/2785.html",
+                            "value": 67,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Dario Di Nucci",
+                    "children": [
+                        {
+                            "name": "Dario Di Nucci",
+                            "url": "https://dblp.uni-trier.de/pid/165/8639.html",
+                            "value": 35,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Damian A. Tamburri",
+                    "children": [
+                        {
+                            "name": "Damian A. Tamburri",
+                            "url": "https://dblp.uni-trier.de/pid/29/4648.html",
+                            "value": 35,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Filomena Ferrucci",
+                    "children": [
+                        {
+                            "name": "Filomena Ferrucci",
+                            "url": "https://dblp.uni-trier.de/pid/68/6536.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Rocco Oliveto",
+                    "children": [
+                        {
+                            "name": "Rocco Oliveto",
+                            "url": "https://dblp.uni-trier.de/pid/18/6986.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ken-ichi Matsumoto",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/73/942.html",
+            "children": [
+                {
+                    "name": "Raula Gaikovina Kula",
+                    "children": [
+                        {
+                            "name": "Raula Gaikovina Kula",
+                            "url": "https://dblp.uni-trier.de/pid/64/7675.html",
+                            "value": 86,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Akito Monden",
+                    "children": [
+                        {
+                            "name": "Akito Monden",
+                            "url": "https://dblp.uni-trier.de/pid/41/2487.html",
+                            "value": 85,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Hideaki Hata",
+                    "children": [
+                        {
+                            "name": "Hideaki Hata",
+                            "url": "https://dblp.uni-trier.de/pid/57/4288.html",
+                            "value": 72,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Takashi Ishio",
+                    "children": [
+                        {
+                            "name": "Takashi Ishio",
+                            "url": "https://dblp.uni-trier.de/pid/66/39.html",
+                            "value": 57,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Akinori Ihara",
+                    "children": [
+                        {
+                            "name": "Akinori Ihara",
+                            "url": "https://dblp.uni-trier.de/pid/22/8358.html",
+                            "value": 54,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Laurie A. Williams",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/w/LaurieAWilliams.html",
+            "children": [
+                {
+                    "name": "Akond Ashfaque Ur Rahman",
+                    "children": [
+                        {
+                            "name": "Akond Ashfaque Ur Rahman",
+                            "url": "https://dblp.uni-trier.de/pid/06/10426.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Nachiappan Nagappan",
+                    "children": [
+                        {
+                            "name": "Nachiappan Nagappan",
+                            "url": "https://dblp.uni-trier.de/pid/91/1758.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mladen A. Vouk",
+                    "children": [
+                        {
+                            "name": "Mladen A. Vouk",
+                            "url": "https://dblp.uni-trier.de/pid/v/MladenAVouk.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Tim Menzies",
+                    "children": [
+                        {
+                            "name": "Tim Menzies",
+                            "url": "https://dblp.uni-trier.de/pid/m/TimMenzies.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Andrew Meneely",
+                    "children": [
+                        {
+                            "name": "Andrew Meneely",
+                            "url": "https://dblp.uni-trier.de/pid/41/539.html",
+                            "value": 15,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Christoph Treude",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/29/1074.html",
+            "children": [
+                {
+                    "name": "Raula Gaikovina Kula",
+                    "children": [
+                        {
+                            "name": "Raula Gaikovina Kula",
+                            "url": "https://dblp.uni-trier.de/pid/64/7675.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaret-Anne D. Storey",
+                    "children": [
+                        {
+                            "name": "Margaret-Anne D. Storey",
+                            "url": "https://dblp.uni-trier.de/pid/s/MargaretAnneDStorey.html",
+                            "value": 26,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Hideaki Hata",
+                    "children": [
+                        {
+                            "name": "Hideaki Hata",
+                            "url": "https://dblp.uni-trier.de/pid/57/4288.html",
+                            "value": 24,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sebastian Baltes",
+                    "children": [
+                        {
+                            "name": "Sebastian Baltes",
+                            "url": "https://dblp.uni-trier.de/pid/145/3950.html",
+                            "value": 22,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Marco Aur\u00e9lio Gerosa",
+                    "children": [
+                        {
+                            "name": "Marco Aur\u00e9lio Gerosa",
+                            "url": "https://dblp.uni-trier.de/pid/68/5072.html",
+                            "value": 22,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Martin Monperrus",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/62/5292.html",
+            "children": [
+                {
+                    "name": "Benoit Baudry",
+                    "children": [
+                        {
+                            "name": "Benoit Baudry",
+                            "url": "https://dblp.uni-trier.de/pid/57/3320.html",
+                            "value": 77,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Matias Martinez",
+                    "children": [
+                        {
+                            "name": "Matias Martinez",
+                            "url": "https://dblp.uni-trier.de/pid/135/6372.html",
+                            "value": 51,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Thomas Durieux",
+                    "children": [
+                        {
+                            "name": "Thomas Durieux",
+                            "url": "https://dblp.uni-trier.de/pid/163/2121.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lionel Seinturier",
+                    "children": [
+                        {
+                            "name": "Lionel Seinturier",
+                            "url": "https://dblp.uni-trier.de/pid/75/3681.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Benjamin Danglot",
+                    "children": [
+                        {
+                            "name": "Benjamin Danglot",
+                            "url": "https://dblp.uni-trier.de/pid/190/7031.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Natalia Juristo Juzgado",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/35/4144.html",
+            "children": [
+                {
+                    "name": "\u00d3scar Dieste Tub\u00edo",
+                    "children": [
+                        {
+                            "name": "\u00d3scar Dieste Tub\u00edo",
+                            "url": "https://dblp.uni-trier.de/pid/24/1437.html",
+                            "value": 49,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sira Vegas",
+                    "children": [
+                        {
+                            "name": "Sira Vegas",
+                            "url": "https://dblp.uni-trier.de/pid/78/6590.html",
+                            "value": 49,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ana Mar\u00eda Moreno 0001",
+                    "children": [
+                        {
+                            "name": "Ana Mar\u00eda Moreno 0001",
+                            "url": "https://dblp.uni-trier.de/pid/67/1778.html",
+                            "value": 33,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Burak Turhan",
+                    "children": [
+                        {
+                            "name": "Burak Turhan",
+                            "url": "https://dblp.uni-trier.de/pid/62/1974.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Davide Fucci",
+                    "children": [
+                        {
+                            "name": "Davide Fucci",
+                            "url": "https://dblp.uni-trier.de/pid/70/9016.html",
+                            "value": 26,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yasutaka Kamei",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/88/3251.html",
+            "children": [
+                {
+                    "name": "Naoyasu Ubayashi",
+                    "children": [
+                        {
+                            "name": "Naoyasu Ubayashi",
+                            "url": "https://dblp.uni-trier.de/pid/85/2856.html",
+                            "value": 72,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 27,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ken-ichi Matsumoto",
+                    "children": [
+                        {
+                            "name": "Ken-ichi Matsumoto",
+                            "url": "https://dblp.uni-trier.de/pid/73/942.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shane McIntosh",
+                    "children": [
+                        {
+                            "name": "Shane McIntosh",
+                            "url": "https://dblp.uni-trier.de/pid/31/8127.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Akito Monden",
+                    "children": [
+                        {
+                            "name": "Akito Monden",
+                            "url": "https://dblp.uni-trier.de/pid/41/2487.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Steffen Herbold",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/62/10102.html",
+            "children": [
+                {
+                    "name": "Jens Grabowski",
+                    "children": [
+                        {
+                            "name": "Jens Grabowski",
+                            "url": "https://dblp.uni-trier.de/pid/g/JensGrabowski.html",
+                            "value": 41,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Alexander Trautsch",
+                    "children": [
+                        {
+                            "name": "Alexander Trautsch",
+                            "url": "https://dblp.uni-trier.de/pid/203/6855.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabian Trautsch",
+                    "children": [
+                        {
+                            "name": "Fabian Trautsch",
+                            "url": "https://dblp.uni-trier.de/pid/153/1153.html",
+                            "value": 18,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Benjamin Ledel",
+                    "children": [
+                        {
+                            "name": "Benjamin Ledel",
+                            "url": "https://dblp.uni-trier.de/pid/256/1054.html",
+                            "value": 9,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Stephan Waack",
+                    "children": [
+                        {
+                            "name": "Stephan Waack",
+                            "url": "https://dblp.uni-trier.de/pid/w/StephanWaack.html",
+                            "value": 7,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Abram Hindle",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/76/2009.html",
+            "children": [
+                {
+                    "name": "Eleni Stroulia",
+                    "children": [
+                        {
+                            "name": "Eleni Stroulia",
+                            "url": "https://dblp.uni-trier.de/pid/66/3519.html",
+                            "value": 18,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Michael W. Godfrey",
+                    "children": [
+                        {
+                            "name": "Michael W. Godfrey",
+                            "url": "https://dblp.uni-trier.de/pid/g/MichaelWGodfrey.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shaiful Alam Chowdhury",
+                    "children": [
+                        {
+                            "name": "Shaiful Alam Chowdhury",
+                            "url": "https://dblp.uni-trier.de/pid/122/3522.html",
+                            "value": 15,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Richard C. Holt",
+                    "children": [
+                        {
+                            "name": "Richard C. Holt",
+                            "url": "https://dblp.uni-trier.de/pid/h/RichardCHolt.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Joshua Charles Campbell",
+                    "children": [
+                        {
+                            "name": "Joshua Charles Campbell",
+                            "url": "https://dblp.uni-trier.de/pid/129/8918.html",
+                            "value": 12,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Andrea De Lucia",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/33/2785.html",
+            "children": [
+                {
+                    "name": "Rocco Oliveto",
+                    "children": [
+                        {
+                            "name": "Rocco Oliveto",
+                            "url": "https://dblp.uni-trier.de/pid/18/6986.html",
+                            "value": 109,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Genny Tortora",
+                    "children": [
+                        {
+                            "name": "Genny Tortora",
+                            "url": "https://dblp.uni-trier.de/pid/t/GennyTortora.html",
+                            "value": 70,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabio Palomba",
+                    "children": [
+                        {
+                            "name": "Fabio Palomba",
+                            "url": "https://dblp.uni-trier.de/pid/116/6732.html",
+                            "value": 67,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Gabriele Bavota",
+                    "children": [
+                        {
+                            "name": "Gabriele Bavota",
+                            "url": "https://dblp.uni-trier.de/pid/09/8523.html",
+                            "value": 52,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Massimiliano Di Penta",
+                    "children": [
+                        {
+                            "name": "Massimiliano Di Penta",
+                            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+                            "value": 37,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Arie van Deursen",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/d/ArievanDeursen.html",
+            "children": [
+                {
+                    "name": "Andy Zaidman",
+                    "children": [
+                        {
+                            "name": "Andy Zaidman",
+                            "url": "https://dblp.uni-trier.de/pid/68/6471.html",
+                            "value": 30,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Leon Moonen",
+                    "children": [
+                        {
+                            "name": "Leon Moonen",
+                            "url": "https://dblp.uni-trier.de/pid/m/LeonMoonen.html",
+                            "value": 29,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mauricio Finavaro Aniche",
+                    "children": [
+                        {
+                            "name": "Mauricio Finavaro Aniche",
+                            "url": "https://dblp.uni-trier.de/pid/61/9679.html",
+                            "value": 21,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Luis Cruz 0002",
+                    "children": [
+                        {
+                            "name": "Luis Cruz 0002",
+                            "url": "https://dblp.uni-trier.de/pid/96/2486-2.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ali Mesbah 0001",
+                    "children": [
+                        {
+                            "name": "Ali Mesbah 0001",
+                            "url": "https://dblp.uni-trier.de/pid/72/4471-1.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Andy Zaidman",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/68/6471.html",
+            "children": [
+                {
+                    "name": "Annibale Panichella",
+                    "children": [
+                        {
+                            "name": "Annibale Panichella",
+                            "url": "https://dblp.uni-trier.de/pid/90/7547.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Arie van Deursen",
+                    "children": [
+                        {
+                            "name": "Arie van Deursen",
+                            "url": "https://dblp.uni-trier.de/pid/d/ArievanDeursen.html",
+                            "value": 30,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabio Palomba",
+                    "children": [
+                        {
+                            "name": "Fabio Palomba",
+                            "url": "https://dblp.uni-trier.de/pid/116/6732.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Moritz Beller",
+                    "children": [
+                        {
+                            "name": "Moritz Beller",
+                            "url": "https://dblp.uni-trier.de/pid/127/4199.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Andrea De Lucia",
+                    "children": [
+                        {
+                            "name": "Andrea De Lucia",
+                            "url": "https://dblp.uni-trier.de/pid/33/2785.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sebastiano Panichella",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/37/7547.html",
+            "children": [
+                {
+                    "name": "Harald C. Gall",
+                    "children": [
+                        {
+                            "name": "Harald C. Gall",
+                            "url": "https://dblp.uni-trier.de/pid/g/HaraldGall.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Gerardo Canfora",
+                    "children": [
+                        {
+                            "name": "Gerardo Canfora",
+                            "url": "https://dblp.uni-trier.de/pid/63/4434.html",
+                            "value": 28,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Massimiliano Di Penta",
+                    "children": [
+                        {
+                            "name": "Massimiliano Di Penta",
+                            "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+                            "value": 27,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Andrea Di Sorbo",
+                    "children": [
+                        {
+                            "name": "Andrea Di Sorbo",
+                            "url": "https://dblp.uni-trier.de/pid/171/5109.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Annibale Panichella",
+                    "children": [
+                        {
+                            "name": "Annibale Panichella",
+                            "url": "https://dblp.uni-trier.de/pid/90/7547.html",
+                            "value": 24,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shane McIntosh",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/31/8127.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 40,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Yasutaka Kamei",
+                    "children": [
+                        {
+                            "name": "Yasutaka Kamei",
+                            "url": "https://dblp.uni-trier.de/pid/88/3251.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ken-ichi Matsumoto",
+                    "children": [
+                        {
+                            "name": "Ken-ichi Matsumoto",
+                            "url": "https://dblp.uni-trier.de/pid/73/942.html",
+                            "value": 15,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bram Adams",
+                    "children": [
+                        {
+                            "name": "Bram Adams",
+                            "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Keheliya Gallaba",
+                    "children": [
+                        {
+                            "name": "Keheliya Gallaba",
+                            "url": "https://dblp.uni-trier.de/pid/130/2374.html",
+                            "value": 9,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Romain Robbes",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/43/5822.html",
+            "children": [
+                {
+                    "name": "Michele Lanza",
+                    "children": [
+                        {
+                            "name": "Michele Lanza",
+                            "url": "https://dblp.uni-trier.de/pid/53/6708.html",
+                            "value": 32,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mircea Lungu",
+                    "children": [
+                        {
+                            "name": "Mircea Lungu",
+                            "url": "https://dblp.uni-trier.de/pid/81/188.html",
+                            "value": 12,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Alexandre Bergel",
+                    "children": [
+                        {
+                            "name": "Alexandre Bergel",
+                            "url": "https://dblp.uni-trier.de/pid/89/3322.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Marco D'Ambros",
+                    "children": [
+                        {
+                            "name": "Marco D'Ambros",
+                            "url": "https://dblp.uni-trier.de/pid/66/2961.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "David R\u00f6thlisberger",
+                    "children": [
+                        {
+                            "name": "David R\u00f6thlisberger",
+                            "url": "https://dblp.uni-trier.de/pid/43/1028.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Alberto Bacchelli",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/83/5261.html",
+            "children": [
+                {
+                    "name": "Michele Lanza",
+                    "children": [
+                        {
+                            "name": "Michele Lanza",
+                            "url": "https://dblp.uni-trier.de/pid/53/6708.html",
+                            "value": 21,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fabio Palomba",
+                    "children": [
+                        {
+                            "name": "Fabio Palomba",
+                            "url": "https://dblp.uni-trier.de/pid/116/6732.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Enrico Fregnan",
+                    "children": [
+                        {
+                            "name": "Enrico Fregnan",
+                            "url": "https://dblp.uni-trier.de/pid/235/0216.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Larissa Braz",
+                    "children": [
+                        {
+                            "name": "Larissa Braz",
+                            "url": "https://dblp.uni-trier.de/pid/187/9149.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Magiel Bruntink",
+                    "children": [
+                        {
+                            "name": "Magiel Bruntink",
+                            "url": "https://dblp.uni-trier.de/pid/42/5878.html",
+                            "value": 12,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Filippo Lanubile",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/29/4646.html",
+            "children": [
+                {
+                    "name": "Fabio Calefato",
+                    "children": [
+                        {
+                            "name": "Fabio Calefato",
+                            "url": "https://dblp.uni-trier.de/pid/48/5662.html",
+                            "value": 99,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Nicole Novielli",
+                    "children": [
+                        {
+                            "name": "Nicole Novielli",
+                            "url": "https://dblp.uni-trier.de/pid/09/1798.html",
+                            "value": 51,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Giuseppe Visaggio",
+                    "children": [
+                        {
+                            "name": "Giuseppe Visaggio",
+                            "url": "https://dblp.uni-trier.de/pid/94/4920.html",
+                            "value": 22,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Luigi Quaranta",
+                    "children": [
+                        {
+                            "name": "Luigi Quaranta",
+                            "url": "https://dblp.uni-trier.de/pid/238/0016.html",
+                            "value": 20,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Giuseppe Iaffaldano",
+                    "children": [
+                        {
+                            "name": "Giuseppe Iaffaldano",
+                            "url": "https://dblp.uni-trier.de/pid/200/7987.html",
+                            "value": 14,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Barbara A. Kitchenham",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/k/BarbaraAKitchenham.html",
+            "children": [
+                {
+                    "name": "Pearl Brereton",
+                    "children": [
+                        {
+                            "name": "Pearl Brereton",
+                            "url": "https://dblp.uni-trier.de/pid/21/4595.html",
+                            "value": 47,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "David Budgen",
+                    "children": [
+                        {
+                            "name": "David Budgen",
+                            "url": "https://dblp.uni-trier.de/pid/01/338.html",
+                            "value": 40,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Stephen G. Linkman",
+                    "children": [
+                        {
+                            "name": "Stephen G. Linkman",
+                            "url": "https://dblp.uni-trier.de/pid/69/6646.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mark Turner 0001",
+                    "children": [
+                        {
+                            "name": "Mark Turner 0001",
+                            "url": "https://dblp.uni-trier.de/pid/46/2999-1.html",
+                            "value": 19,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D. Ross Jeffery",
+                    "children": [
+                        {
+                            "name": "D. Ross Jeffery",
+                            "url": "https://dblp.uni-trier.de/pid/99/2957.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tse-Hsun (Peter) Chen",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/116/6782.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Weiyi Shang",
+                    "children": [
+                        {
+                            "name": "Weiyi Shang",
+                            "url": "https://dblp.uni-trier.de/pid/96/7305.html",
+                            "value": 25,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Shaowei Wang 0002",
+                    "children": [
+                        {
+                            "name": "Shaowei Wang 0002",
+                            "url": "https://dblp.uni-trier.de/pid/49/6937-2.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Haoxiang Zhang 0001",
+                    "children": [
+                        {
+                            "name": "Haoxiang Zhang 0001",
+                            "url": "https://dblp.uni-trier.de/pid/07/1059-1.html",
+                            "value": 10,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Heng Li 0007",
+                    "children": [
+                        {
+                            "name": "Heng Li 0007",
+                            "url": "https://dblp.uni-trier.de/pid/02/3672-7.html",
+                            "value": 9,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/00/8006.html",
+            "children": [
+                {
+                    "name": "Jacques Klein",
+                    "children": [
+                        {
+                            "name": "Jacques Klein",
+                            "url": "https://dblp.uni-trier.de/pid/k/JacquesKlein.html",
+                            "value": 164,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Yves Le Traon",
+                    "children": [
+                        {
+                            "name": "Yves Le Traon",
+                            "url": "https://dblp.uni-trier.de/pid/95/5206.html",
+                            "value": 79,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Li Li 0029",
+                    "children": [
+                        {
+                            "name": "Li Li 0029",
+                            "url": "https://dblp.uni-trier.de/pid/53/2189-29.html",
+                            "value": 69,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kui Liu 0001",
+                    "children": [
+                        {
+                            "name": "Kui Liu 0001",
+                            "url": "https://dblp.uni-trier.de/pid/71/7399-1.html",
+                            "value": 43,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kevin Allix",
+                    "children": [
+                        {
+                            "name": "Kevin Allix",
+                            "url": "https://dblp.uni-trier.de/pid/117/9316.html",
+                            "value": 33,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Meiyappan Nagappan",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/27/2828.html",
+            "children": [
+                {
+                    "name": "Ahmed E. Hassan",
+                    "children": [
+                        {
+                            "name": "Ahmed E. Hassan",
+                            "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+                            "value": 35,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Bram Adams",
+                    "children": [
+                        {
+                            "name": "Bram Adams",
+                            "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+                            "value": 14,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Emad Shihab",
+                    "children": [
+                        {
+                            "name": "Emad Shihab",
+                            "url": "https://dblp.uni-trier.de/pid/05/5996.html",
+                            "value": 9,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Gema Rodr\u00edguez-P\u00e9rez",
+                    "children": [
+                        {
+                            "name": "Gema Rodr\u00edguez-P\u00e9rez",
+                            "url": "https://dblp.uni-trier.de/pid/180/0034.html",
+                            "value": 8,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Yasutaka Kamei",
+                    "children": [
+                        {
+                            "name": "Yasutaka Kamei",
+                            "url": "https://dblp.uni-trier.de/pid/88/3251.html",
+                            "value": 7,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chanchal Kumar Roy",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/03/5761.html",
+            "children": [
+                {
+                    "name": "Kevin A. Schneider",
+                    "children": [
+                        {
+                            "name": "Kevin A. Schneider",
+                            "url": "https://dblp.uni-trier.de/pid/79/3635.html",
+                            "value": 109,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mohammad Masudur Rahman 0001",
+                    "children": [
+                        {
+                            "name": "Mohammad Masudur Rahman 0001",
+                            "url": "https://dblp.uni-trier.de/pid/137/6268.html",
+                            "value": 60,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Manishankar Mondal",
+                    "children": [
+                        {
+                            "name": "Manishankar Mondal",
+                            "url": "https://dblp.uni-trier.de/pid/37/10031.html",
+                            "value": 51,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Banani Roy",
+                    "children": [
+                        {
+                            "name": "Banani Roy",
+                            "url": "https://dblp.uni-trier.de/pid/99/2750.html",
+                            "value": 39,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Jeffrey Svajlenko",
+                    "children": [
+                        {
+                            "name": "Jeffrey Svajlenko",
+                            "url": "https://dblp.uni-trier.de/pid/136/2122.html",
+                            "value": 24,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Zhenchang Xing",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/52/6482.html",
+            "children": [
+                {
+                    "name": "Xin Xia 0001",
+                    "children": [
+                        {
+                            "name": "Xin Xia 0001",
+                            "url": "https://dblp.uni-trier.de/pid/06/2072-1.html",
+                            "value": 49,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Xiwei Xu 0001",
+                    "children": [
+                        {
+                            "name": "Xiwei Xu 0001",
+                            "url": "https://dblp.uni-trier.de/pid/47/3196-1.html",
+                            "value": 48,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Chunyang Chen",
+                    "children": [
+                        {
+                            "name": "Chunyang Chen",
+                            "url": "https://dblp.uni-trier.de/pid/180/7246.html",
+                            "value": 44,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Liming Zhu 0001",
+                    "children": [
+                        {
+                            "name": "Liming Zhu 0001",
+                            "url": "https://dblp.uni-trier.de/pid/52/4318-1.html",
+                            "value": 44,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Xin Peng 0001",
+                    "children": [
+                        {
+                            "name": "Xin Peng 0001",
+                            "url": "https://dblp.uni-trier.de/pid/14/6370-1.html",
+                            "value": 39,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sira Vegas",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/78/6590.html",
+            "children": [
+                {
+                    "name": "Natalia Juristo Juzgado",
+                    "children": [
+                        {
+                            "name": "Natalia Juristo Juzgado",
+                            "url": "https://dblp.uni-trier.de/pid/35/4144.html",
+                            "value": 49,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "\u00d3scar Dieste Tub\u00edo",
+                    "children": [
+                        {
+                            "name": "\u00d3scar Dieste Tub\u00edo",
+                            "url": "https://dblp.uni-trier.de/pid/24/1437.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Adri\u00e1n Santos",
+                    "children": [
+                        {
+                            "name": "Adri\u00e1n Santos",
+                            "url": "https://dblp.uni-trier.de/pid/26/2862.html",
+                            "value": 10,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ana Mar\u00eda Moreno 0001",
+                    "children": [
+                        {
+                            "name": "Ana Mar\u00eda Moreno 0001",
+                            "url": "https://dblp.uni-trier.de/pid/67/1778.html",
+                            "value": 8,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Victor R. Basili",
+                    "children": [
+                        {
+                            "name": "Victor R. Basili",
+                            "url": "https://dblp.uni-trier.de/pid/b/VRBasili.html",
+                            "value": 7,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Jacques Klein",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/k/JacquesKlein.html",
+            "children": [
+                {
+                    "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+                    "children": [
+                        {
+                            "name": "Tegawend\u00e9 F. Bissyand\u00e9",
+                            "url": "https://dblp.uni-trier.de/pid/00/8006.html",
+                            "value": 164,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Yves Le Traon",
+                    "children": [
+                        {
+                            "name": "Yves Le Traon",
+                            "url": "https://dblp.uni-trier.de/pid/95/5206.html",
+                            "value": 114,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Li Li 0029",
+                    "children": [
+                        {
+                            "name": "Li Li 0029",
+                            "url": "https://dblp.uni-trier.de/pid/53/2189-29.html",
+                            "value": 68,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kevin Allix",
+                    "children": [
+                        {
+                            "name": "Kevin Allix",
+                            "url": "https://dblp.uni-trier.de/pid/117/9316.html",
+                            "value": 33,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kui Liu 0001",
+                    "children": [
+                        {
+                            "name": "Kui Liu 0001",
+                            "url": "https://dblp.uni-trier.de/pid/71/7399-1.html",
+                            "value": 29,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Taghi M. Khoshgoftaar",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/k/TMKhoshgoftaar.html",
+            "children": [
+                {
+                    "name": "Amri Napolitano",
+                    "children": [
+                        {
+                            "name": "Amri Napolitano",
+                            "url": "https://dblp.uni-trier.de/pid/27/6839.html",
+                            "value": 108,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Randall Wald",
+                    "children": [
+                        {
+                            "name": "Randall Wald",
+                            "url": "https://dblp.uni-trier.de/pid/74/7789.html",
+                            "value": 73,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Naeem Seliya",
+                    "children": [
+                        {
+                            "name": "Naeem Seliya",
+                            "url": "https://dblp.uni-trier.de/pid/93/1631.html",
+                            "value": 66,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Jason Van Hulse",
+                    "children": [
+                        {
+                            "name": "Jason Van Hulse",
+                            "url": "https://dblp.uni-trier.de/pid/37/3523.html",
+                            "value": 63,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Edward B. Allen",
+                    "children": [
+                        {
+                            "name": "Edward B. Allen",
+                            "url": "https://dblp.uni-trier.de/pid/a/EBAllen.html",
+                            "value": 53,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "James Miller 0001",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/44/7043-1.html",
+            "children": [
+                {
+                    "name": "Scott Dick",
+                    "children": [
+                        {
+                            "name": "Scott Dick",
+                            "url": "https://dblp.uni-trier.de/pid/72/91.html",
+                            "value": 21,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Michael R. Smith 0001",
+                    "children": [
+                        {
+                            "name": "Michael R. Smith 0001",
+                            "url": "https://dblp.uni-trier.de/pid/57/6618-1.html",
+                            "value": 18,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Marc Roper",
+                    "children": [
+                        {
+                            "name": "Marc Roper",
+                            "url": "https://dblp.uni-trier.de/pid/94/3808.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Murray Wood",
+                    "children": [
+                        {
+                            "name": "Murray Wood",
+                            "url": "https://dblp.uni-trier.de/pid/30/1430.html",
+                            "value": 16,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mona Nashaat",
+                    "children": [
+                        {
+                            "name": "Mona Nashaat",
+                            "url": "https://dblp.uni-trier.de/pid/208/0750.html",
+                            "value": 13,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Andrea Arcuri",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/59/2858.html",
+            "children": [
+                {
+                    "name": "Gordon Fraser 0001",
+                    "children": [
+                        {
+                            "name": "Gordon Fraser 0001",
+                            "url": "https://dblp.uni-trier.de/pid/74/2259.html",
+                            "value": 48,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lionel C. Briand",
+                    "children": [
+                        {
+                            "name": "Lionel C. Briand",
+                            "url": "https://dblp.uni-trier.de/pid/93/1501.html",
+                            "value": 23,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Man Zhang 0001",
+                    "children": [
+                        {
+                            "name": "Man Zhang 0001",
+                            "url": "https://dblp.uni-trier.de/pid/49/5096-1.html",
+                            "value": 17,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Juan P. Galeotti",
+                    "children": [
+                        {
+                            "name": "Juan P. Galeotti",
+                            "url": "https://dblp.uni-trier.de/pid/13/4907.html",
+                            "value": 14,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Muhammad Zohaib Z. Iqbal",
+                    "children": [
+                        {
+                            "name": "Muhammad Zohaib Z. Iqbal",
+                            "url": "https://dblp.uni-trier.de/pid/19/6723.html",
+                            "value": 11,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Raula Gaikovina Kula",
+            "most_collaborated": null,
+            "url": "https://dblp.uni-trier.de/pid/64/7675.html",
+            "children": [
+                {
+                    "name": "Ken-ichi Matsumoto",
+                    "children": [
+                        {
+                            "name": "Ken-ichi Matsumoto",
+                            "url": "https://dblp.uni-trier.de/pid/73/942.html",
+                            "value": 86,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Takashi Ishio",
+                    "children": [
+                        {
+                            "name": "Takashi Ishio",
+                            "url": "https://dblp.uni-trier.de/pid/66/39.html",
+                            "value": 66,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Hideaki Hata",
+                    "children": [
+                        {
+                            "name": "Hideaki Hata",
+                            "url": "https://dblp.uni-trier.de/pid/57/4288.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Christoph Treude",
+                    "children": [
+                        {
+                            "name": "Christoph Treude",
+                            "url": "https://dblp.uni-trier.de/pid/29/1074.html",
+                            "value": 31,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Dong Wang",
+                    "children": [
+                        {
+                            "name": "Dong Wang",
+                            "url": "https://dblp.uni-trier.de/pid/40/3934.html",
+                            "value": 28,
+                            "most_collaborated": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

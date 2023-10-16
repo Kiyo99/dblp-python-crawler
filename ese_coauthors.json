@@ -1,0 +1,1599 @@
+{
+  "name": "ICSE Authors",
+  "children": [
+    {
+      "name": "Ahmed E. Hassan (68)",
+      "most_collaborated": "Walid Abdelmoez",
+      "url": "https://dblp.uni-trier.de/pid/h/AhmedEHassan.html",
+      "children": [
+        {
+          "name": "Walid Abdelmoez (0)",
+          "url": "https://dblp.uni-trier.de/pid/43/6145.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Wessam Ahmed AlBakary",
+              "pid": "354/6984",
+              "count": 0
+            },
+            {
+              "name": "Mostafa Alshamy",
+              "pid": "302/8157",
+              "count": 0
+            },
+            {
+              "name": "Hany H. Ammar",
+              "pid": "a/HanyHAmmar",
+              "count": 0
+            },
+            {
+              "name": "Kalaivani Appukkutty",
+              "pid": "25/874",
+              "count": 0
+            },
+            {
+              "name": "S. Bogazzi",
+              "pid": "13/1327",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Surafel Lemma Abebe (0)",
+          "url": "https://dblp.uni-trier.de/pid/47/3377.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Rosa Tsegaye Aga",
+              "pid": "170/8245",
+              "count": 0
+            },
+            {
+              "name": "Nasir Ali",
+              "pid": "68/3707",
+              "count": 0
+            },
+            {
+              "name": "Anita Alicante",
+              "pid": "53/10489",
+              "count": 0
+            },
+            {
+              "name": "Giuliano Antoniol",
+              "pid": "73/3515",
+              "count": 0
+            },
+            {
+              "name": "Venera Arnaoudova",
+              "pid": "45/5572",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Bram Adams (0)",
+          "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Rabe Abdalkareem",
+              "pid": "149/2653",
+              "count": 0
+            },
+            {
+              "name": "Mouna Abidi",
+              "pid": "254/6168",
+              "count": 0
+            },
+            {
+              "name": "Alexandra Johanne Bifona Africa",
+              "pid": "292/7321",
+              "count": 0
+            },
+            {
+              "name": "Ademar Aguiar",
+              "pid": "48/4640",
+              "count": 0
+            },
+            {
+              "name": "Omar Alam",
+              "pid": "99/7539",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Md. Ahasanuzzaman (0)",
+          "url": "https://dblp.uni-trier.de/pid/164/7378.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Abdulhameed Alelaiwi",
+              "pid": "56/7481",
+              "count": 0
+            },
+            {
+              "name": "Muhammad Asaduzzaman",
+              "pid": "88/9972",
+              "count": 0
+            },
+            {
+              "name": "Cor-Paul Bezemer",
+              "pid": "95/7251",
+              "count": 0
+            },
+            {
+              "name": "Ahmed E. Hassan",
+              "pid": "h/AhmedEHassan",
+              "count": 0
+            },
+            {
+              "name": "Mohammad Mehedi Hassan",
+              "pid": "84/4762",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Tarek M. Ahmed (0)",
+          "url": "https://dblp.uni-trier.de/pid/166/4956.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Cor-Paul Bezemer",
+              "pid": "95/7251",
+              "count": 0
+            },
+            {
+              "name": "Tse-Hsun (Peter) Chen",
+              "pid": "116/6782",
+              "count": 0
+            },
+            {
+              "name": "James R. Cordy",
+              "pid": "c/JamesRCordy",
+              "count": 0
+            },
+            {
+              "name": "Ahmed E. Hassan",
+              "pid": "h/AhmedEHassan",
+              "count": 0
+            },
+            {
+              "name": "Weiyi Shang",
+              "pid": "96/7305",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lionel C. Briand (36)",
+      "most_collaborated": "Amin Abbasishahkoo",
+      "url": "https://dblp.uni-trier.de/pid/93/1501.html",
+      "children": [
+        {
+          "name": "Amin Abbasishahkoo (0)",
+          "url": "https://dblp.uni-trier.de/pid/354/6438.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Lionel C. Briand",
+              "pid": "93/1501",
+              "count": 0
+            },
+            {
+              "name": "Mahboubeh Dadkhah",
+              "pid": "183/4650",
+              "count": 0
+            },
+            {
+              "name": "Dayi Lin",
+              "pid": "187/9420",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Manel Abdellatif (0)",
+          "url": "https://dblp.uni-trier.de/pid/174/2181.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Zohreh Aghababaeyan",
+              "pid": "309/7615",
+              "count": 0
+            },
+            {
+              "name": "Mojtaba Bagherzadeh",
+              "pid": "194/4122",
+              "count": 0
+            },
+            {
+              "name": "Eric Beaudry",
+              "pid": "07/286",
+              "count": 0
+            },
+            {
+              "name": "H\u00e9l\u00e8ne-Sarah B\u00e9cotte-Boutin",
+              "pid": "296/9712",
+              "count": 0
+            },
+            {
+              "name": "Abdelkarim Belkhir",
+              "pid": "207/8992",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Raja Ben Abdessalem (0)",
+          "url": "https://dblp.uni-trier.de/pid/184/8061.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Markus Borg",
+              "pid": "47/9384",
+              "count": 0
+            },
+            {
+              "name": "Lionel C. Briand",
+              "pid": "93/1501",
+              "count": 0
+            },
+            {
+              "name": "Fran\u00e7ois-Xavier Jegeden",
+              "pid": "281/7084",
+              "count": 0
+            },
+            {
+              "name": "Shiva Nejati",
+              "pid": "57/3937",
+              "count": 0
+            },
+            {
+              "name": "Annibale Panichella",
+              "pid": "90/7547",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Sallam Abualhaija (0)",
+          "url": "https://dblp.uni-trier.de/pid/146/0408.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Orlando Amaral",
+              "pid": "294/8801",
+              "count": 0
+            },
+            {
+              "name": "Daniel Amyot",
+              "pid": "a/DanielAmyot",
+              "count": 0
+            },
+            {
+              "name": "Chetan Arora 0002",
+              "pid": "19/1006-2",
+              "count": 0
+            },
+            {
+              "name": "Fatma Basak Aydemir",
+              "pid": "135/2727",
+              "count": 0
+            },
+            {
+              "name": "Muhammad Ilyas Azeem",
+              "pid": "152/5409",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Morayo Adedjouma (0)",
+          "url": "https://dblp.uni-trier.de/pid/75/9972.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Christophe Alix",
+              "pid": "298/8076",
+              "count": 0
+            },
+            {
+              "name": "Fabio Arnez",
+              "pid": "268/5682",
+              "count": 0
+            },
+            {
+              "name": "Boutheina Bannour",
+              "pid": "64/10779",
+              "count": 0
+            },
+            {
+              "name": "Julien Begey",
+              "pid": "139/7046",
+              "count": 0
+            },
+            {
+              "name": "Mohamed Lamine Benzagouta",
+              "pid": "353/5830",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "David Lo 0001 (35)",
+      "most_collaborated": "Rui Abreu 0001",
+      "url": "https://dblp.uni-trier.de/pid/89/6793-1.html",
+      "children": [
+        {
+          "name": "Rui Abreu 0001 (0)",
+          "url": "https://dblp.uni-trier.de/pid/00/6243.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Pedro Ad\u00e3o",
+              "pid": "69/3516",
+              "count": 0
+            },
+            {
+              "name": "Giovanni Agosta",
+              "pid": "a/GiovanniAgosta",
+              "count": 0
+            },
+            {
+              "name": "Shane Ahern",
+              "pid": "95/1839",
+              "count": 0
+            },
+            {
+              "name": "Babiker Hussien Ahmed",
+              "pid": "260/1430",
+              "count": 0
+            },
+            {
+              "name": "Tobi Akomolede",
+              "pid": "297/4885",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Palakorn Achananuparp (0)",
+          "url": "https://dblp.uni-trier.de/pid/49/2531.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Vibhanshu Abhishek",
+              "pid": "46/3033",
+              "count": 0
+            },
+            {
+              "name": "Robert B. Allen",
+              "pid": "a/RobertBAllen",
+              "count": 0
+            },
+            {
+              "name": "Yuan An",
+              "pid": "54/323",
+              "count": 0
+            },
+            {
+              "name": "Xin Chen",
+              "pid": "24/1518",
+              "count": 0
+            },
+            {
+              "name": "Tzu-Ling Cheng",
+              "pid": "249/2257",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Navdha Agarwal (0)",
+          "url": "https://dblp.uni-trier.de/pid/279/3907.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Saket Anand",
+              "pid": "11/4747",
+              "count": 0
+            },
+            {
+              "name": "Piyush Gupta",
+              "pid": "57/6295",
+              "count": 0
+            },
+            {
+              "name": "David Lo 0001",
+              "pid": "89/6793-1",
+              "count": 0
+            },
+            {
+              "name": "Nikita Mehrotra",
+              "pid": "274/2367",
+              "count": 0
+            },
+            {
+              "name": "Rahul Purandare",
+              "pid": "65/5006",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Iftekhar Ahmed 0001 (0)",
+          "url": "https://dblp.uni-trier.de/pid/57/5553.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Pekka Abrahamsson",
+              "pid": "71/5809",
+              "count": 0
+            },
+            {
+              "name": "Mohammad Amin Alipour",
+              "pid": "36/3317",
+              "count": 0
+            },
+            {
+              "name": "Eduardo Santana de Almeida",
+              "pid": "a/EduardoSantanadeAlmeida",
+              "count": 0
+            },
+            {
+              "name": "Rana Abdullah M. Almurshed",
+              "pid": "184/5636",
+              "count": 0
+            },
+            {
+              "name": "Abdulaziz Alshayban",
+              "pid": "266/9836",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Omar I. Al-Bataineh (0)",
+          "url": "https://dblp.uni-trier.de/pid/27/8038.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Umair Z. Ahmed",
+              "pid": "18/11031",
+              "count": 0
+            },
+            {
+              "name": "Arvind Easwaran",
+              "pid": "73/1708",
+              "count": 0
+            },
+            {
+              "name": "Zhiyu Fan",
+              "pid": "158/8687",
+              "count": 0
+            },
+            {
+              "name": "Michael Fisher 0001",
+              "pid": "f/MichaelFisher",
+              "count": 0
+            },
+            {
+              "name": "Tim French 0002",
+              "pid": "29/1679",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Foutse Khomh (25)",
+      "most_collaborated": "Altaf Allah Abbassi",
+      "url": "https://dblp.uni-trier.de/pid/32/147.html",
+      "children": [
+        {
+          "name": "Altaf Allah Abbassi (0)",
+          "url": "https://dblp.uni-trier.de/pid/355/3199.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Foutse Khomh",
+              "pid": "32/147",
+              "count": 0
+            },
+            {
+              "name": "Heng Li 0007",
+              "pid": "02/3672-7",
+              "count": 0
+            },
+            {
+              "name": "Amin Nikanjam",
+              "pid": "42/1656",
+              "count": 0
+            },
+            {
+              "name": "Ahmed Haj Yahmed",
+              "pid": "323/4321",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Marwen Abbes (0)",
+          "url": "https://dblp.uni-trier.de/pid/98/9383.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Giuliano Antoniol",
+              "pid": "73/3515",
+              "count": 0
+            },
+            {
+              "name": "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+              "pid": "20/6995",
+              "count": 0
+            },
+            {
+              "name": "Foutse Khomh",
+              "pid": "32/147",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Mouna Abidi (0)",
+          "url": "https://dblp.uni-trier.de/pid/254/6168.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Le An",
+              "pid": "15/11214",
+              "count": 0
+            },
+            {
+              "name": "Ilan Basta",
+              "pid": "350/4521",
+              "count": 0
+            },
+            {
+              "name": "Rached Bouchoucha",
+              "pid": "326/8574",
+              "count": 0
+            },
+            {
+              "name": "Pierre-Olivier C\u00f4t\u00e9",
+              "pid": "326/8495",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Pekka Abrahamsson (0)",
+          "url": "https://dblp.uni-trier.de/pid/71/5809.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Mamia Agbese",
+              "pid": "304/2988",
+              "count": 0
+            },
+            {
+              "name": "Aakash Ahmad",
+              "pid": "09/9384",
+              "count": 0
+            },
+            {
+              "name": "Iftekhar Ahmed 0001",
+              "pid": "57/5553",
+              "count": 0
+            },
+            {
+              "name": "Muhammad Azeem Akbar",
+              "pid": "180/5818",
+              "count": 0
+            },
+            {
+              "name": "Petteri Alahuhta",
+              "pid": "85/632",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "S. Amirhossein Abtahizadeh (0)",
+          "url": "https://dblp.uni-trier.de/pid/176/1205.html",
+          "value": 0,
+          "children": null
+        }
+      ]
+    },
+    {
+      "name": "Massimiliano Di Penta (25)",
+      "most_collaborated": "Mouna Abidi",
+      "url": "https://dblp.uni-trier.de/pid/d/MassimilianoDiPenta.html",
+      "children": [
+        {
+          "name": "Mouna Abidi (0)",
+          "url": "https://dblp.uni-trier.de/pid/254/6168.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Le An",
+              "pid": "15/11214",
+              "count": 0
+            },
+            {
+              "name": "Ilan Basta",
+              "pid": "350/4521",
+              "count": 0
+            },
+            {
+              "name": "Rached Bouchoucha",
+              "pid": "326/8574",
+              "count": 0
+            },
+            {
+              "name": "Pierre-Olivier C\u00f4t\u00e9",
+              "pid": "326/8495",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Bram Adams (0)",
+          "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Rabe Abdalkareem",
+              "pid": "149/2653",
+              "count": 0
+            },
+            {
+              "name": "Mouna Abidi",
+              "pid": "254/6168",
+              "count": 0
+            },
+            {
+              "name": "Alexandra Johanne Bifona Africa",
+              "pid": "292/7321",
+              "count": 0
+            },
+            {
+              "name": "Ademar Aguiar",
+              "pid": "48/4640",
+              "count": 0
+            },
+            {
+              "name": "Omar Alam",
+              "pid": "99/7539",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Emad Aghajani (0)",
+          "url": "https://dblp.uni-trier.de/pid/200/9157.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Gabriele Bavota",
+              "pid": "09/8523",
+              "count": 0
+            },
+            {
+              "name": "Matteo Ciniselli",
+              "pid": "288/0264",
+              "count": 0
+            },
+            {
+              "name": "Nathan Cooper",
+              "pid": "210/7846",
+              "count": 0
+            },
+            {
+              "name": "Ozren Dabic",
+              "pid": "287/4352",
+              "count": 0
+            },
+            {
+              "name": "Valentina Ferrari",
+              "pid": "56/10558",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Aalok Ahluwalia (0)",
+          "url": "https://dblp.uni-trier.de/pid/243/2596.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Davide Falessi",
+              "pid": "89/536",
+              "count": 0
+            },
+            {
+              "name": "Massimiliano Di Penta",
+              "pid": "d/MassimilianoDiPenta",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Nasir Ali (0)",
+          "url": "https://dblp.uni-trier.de/pid/68/3707.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Mujahid Abbas",
+              "pid": "30/3934",
+              "count": 0
+            },
+            {
+              "name": "Aamar Abbasi",
+              "pid": "146/9139",
+              "count": 0
+            },
+            {
+              "name": "Surafel Lemma Abebe",
+              "pid": "47/3377",
+              "count": 0
+            },
+            {
+              "name": "Ambreen Afsar",
+              "pid": "10/8895",
+              "count": 0
+            },
+            {
+              "name": "Iftikhar Ahmad",
+              "pid": "85/7432",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victor R. Basili (24)",
+      "most_collaborated": "Salwa K. Abd-El-Hafiz",
+      "url": "https://dblp.uni-trier.de/pid/b/VRBasili.html",
+      "children": [
+        {
+          "name": "Salwa K. Abd-El-Hafiz (0)",
+          "url": "https://dblp.uni-trier.de/pid/07/5830.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Sherif H. AbdElHaleem",
+              "pid": "331/4860",
+              "count": 0
+            },
+            {
+              "name": "Amr A. Adly",
+              "pid": "194/7222",
+              "count": 0
+            },
+            {
+              "name": "Mohammed A. Adly",
+              "pid": "194/7312",
+              "count": 0
+            },
+            {
+              "name": "M. L. Barakat",
+              "pid": "135/9671",
+              "count": 0
+            },
+            {
+              "name": "Victor R. Basili",
+              "pid": "b/VRBasili",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Christopher Ackermann (0)",
+          "url": "https://dblp.uni-trier.de/pid/84/6334.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bettina Anders",
+              "pid": "69/1398",
+              "count": 0
+            },
+            {
+              "name": "Sima Asgari",
+              "pid": "79/6087",
+              "count": 0
+            },
+            {
+              "name": "Maureen Bartholomew",
+              "pid": "81/7965",
+              "count": 0
+            },
+            {
+              "name": "Victor R. Basili",
+              "pid": "b/VRBasili",
+              "count": 0
+            },
+            {
+              "name": "Cynthia A. Berlinicke",
+              "pid": "176/9882",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "William W. Agresti (0)",
+          "url": "https://dblp.uni-trier.de/pid/98/6292.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Victor R. Basili",
+              "pid": "b/VRBasili",
+              "count": 0
+            },
+            {
+              "name": "Evrim Bayam",
+              "pid": "78/5441",
+              "count": 0
+            },
+            {
+              "name": "Carolyn E. Brophy",
+              "pid": "317/0053",
+              "count": 0
+            },
+            {
+              "name": "David N. Card",
+              "pid": "99/2753",
+              "count": 0
+            },
+            {
+              "name": "Victor E. Church",
+              "pid": "41/5953",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Dan Allard (0)",
+          "url": "https://dblp.uni-trier.de/pid/80/4222.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Rashied B. Amini",
+              "pid": "261/3174",
+              "count": 0
+            },
+            {
+              "name": "Anthony Barrett",
+              "pid": "62/2823",
+              "count": 0
+            },
+            {
+              "name": "Victor R. Basili",
+              "pid": "b/VRBasili",
+              "count": 0
+            },
+            {
+              "name": "Rebecca Casta\u00f1o",
+              "pid": "12/5757",
+              "count": 0
+            },
+            {
+              "name": "Julie C. Castillo-Rogez",
+              "pid": "135/8680",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Bettina Anders (0)",
+          "url": "https://dblp.uni-trier.de/pid/69/1398.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Christopher Ackermann",
+              "pid": "84/6334",
+              "count": 0
+            },
+            {
+              "name": "Sima Asgari",
+              "pid": "79/6087",
+              "count": 0
+            },
+            {
+              "name": "Victor R. Basili",
+              "pid": "b/VRBasili",
+              "count": 0
+            },
+            {
+              "name": "Tevfik Bultan",
+              "pid": "07/3368",
+              "count": 0
+            },
+            {
+              "name": "Aysu Betin Can",
+              "pid": "31/6100",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bram Adams (24)",
+      "most_collaborated": "Rabe Abdalkareem",
+      "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+      "children": [
+        {
+          "name": "Rabe Abdalkareem (0)",
+          "url": "https://dblp.uni-trier.de/pid/149/2653.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Ahmad Abdellatif",
+              "pid": "241/5936",
+              "count": 0
+            },
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Farhat Agwaeten",
+              "pid": "149/2363",
+              "count": 0
+            },
+            {
+              "name": "Abdulrhman Albeladi",
+              "pid": "129/1450",
+              "count": 0
+            },
+            {
+              "name": "Mahmoud Alfadel",
+              "pid": "272/9685",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Mouna Abidi (0)",
+          "url": "https://dblp.uni-trier.de/pid/254/6168.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Le An",
+              "pid": "15/11214",
+              "count": 0
+            },
+            {
+              "name": "Ilan Basta",
+              "pid": "350/4521",
+              "count": 0
+            },
+            {
+              "name": "Rached Bouchoucha",
+              "pid": "326/8574",
+              "count": 0
+            },
+            {
+              "name": "Pierre-Olivier C\u00f4t\u00e9",
+              "pid": "326/8495",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Alexandra Johanne Bifona Africa (0)",
+          "url": "https://dblp.uni-trier.de/pid/292/7321.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Marios Fokaefs",
+              "pid": "01/696",
+              "count": 0
+            },
+            {
+              "name": "Aquilas Tchanjou Njomou",
+              "pid": "292/7520",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Ademar Aguiar (0)",
+          "url": "https://dblp.uni-trier.de/pid/48/4640.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Diogo Amaral",
+              "pid": "242/3181",
+              "count": 0
+            },
+            {
+              "name": "Vasco Amaral 0001",
+              "pid": "44/2600",
+              "count": 0
+            },
+            {
+              "name": "Fernando S\u00e9rgio Barbosa",
+              "pid": "120/1933",
+              "count": 0
+            },
+            {
+              "name": "Lu\u00eds Soares Barbosa",
+              "pid": "40/3466",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Omar Alam (0)",
+          "url": "https://dblp.uni-trier.de/pid/99/7539.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Wisam Al Abed",
+              "pid": "47/7030",
+              "count": 0
+            },
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Alireza Aghamohammadi",
+              "pid": "232/2013",
+              "count": 0
+            },
+            {
+              "name": "Matin Nili Ahmadabadi",
+              "pid": "278/8173",
+              "count": 0
+            },
+            {
+              "name": "Ethem Utku Aktas",
+              "pid": "224/8861",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xin Xia 0001 (22)",
+      "most_collaborated": "Rabe Abdalkareem",
+      "url": "https://dblp.uni-trier.de/pid/06/2072-1.html",
+      "children": [
+        {
+          "name": "Rabe Abdalkareem (0)",
+          "url": "https://dblp.uni-trier.de/pid/149/2653.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Ahmad Abdellatif",
+              "pid": "241/5936",
+              "count": 0
+            },
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Farhat Agwaeten",
+              "pid": "149/2363",
+              "count": 0
+            },
+            {
+              "name": "Abdulrhman Albeladi",
+              "pid": "129/1450",
+              "count": 0
+            },
+            {
+              "name": "Mahmoud Alfadel",
+              "pid": "272/9685",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Rui Abreu 0001 (0)",
+          "url": "https://dblp.uni-trier.de/pid/00/6243.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Pedro Ad\u00e3o",
+              "pid": "69/3516",
+              "count": 0
+            },
+            {
+              "name": "Giovanni Agosta",
+              "pid": "a/GiovanniAgosta",
+              "count": 0
+            },
+            {
+              "name": "Shane Ahern",
+              "pid": "95/1839",
+              "count": 0
+            },
+            {
+              "name": "Babiker Hussien Ahmed",
+              "pid": "260/1430",
+              "count": 0
+            },
+            {
+              "name": "Tobi Akomolede",
+              "pid": "297/4885",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Jafar M. Al-Kofahi (0)",
+          "url": "https://dblp.uni-trier.de/pid/24/3120.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Ying Ding 0005",
+              "pid": "38/6013-5",
+              "count": 0
+            },
+            {
+              "name": "Lisong Guo",
+              "pid": "45/9582",
+              "count": 0
+            },
+            {
+              "name": "Christian K\u00e4stner",
+              "pid": "85/3873",
+              "count": 0
+            },
+            {
+              "name": "Suresh C. Kothari",
+              "pid": "k/SureshCKothari",
+              "count": 0
+            },
+            {
+              "name": "David Lo 0001",
+              "pid": "89/6793-1",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Aldeida Aleti (0)",
+          "url": "https://dblp.uni-trier.de/pid/61/7634.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Saranya Alagarsamy",
+              "pid": "340/8692",
+              "count": 0
+            },
+            {
+              "name": "Mohamed Almorsy",
+              "pid": "08/10279",
+              "count": 0
+            },
+            {
+              "name": "Ayman A. Amin",
+              "pid": "242/7229",
+              "count": 0
+            },
+            {
+              "name": "Iman Avazpour",
+              "pid": "78/10233",
+              "count": 0
+            },
+            {
+              "name": "Muhammad Ali Babar 0001",
+              "pid": "03/1909",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Linxiao Bai (0)",
+          "url": "https://dblp.uni-trier.de/pid/221/6002.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Catherine Cerulli",
+              "pid": "221/6021",
+              "count": 0
+            },
+            {
+              "name": "Wei Dong 0006",
+              "pid": "92/748-6",
+              "count": 0
+            },
+            {
+              "name": "Melanie Funchess",
+              "pid": "221/6057",
+              "count": 0
+            },
+            {
+              "name": "Mingyang Geng",
+              "pid": "204/1555",
+              "count": 0
+            },
+            {
+              "name": "Christopher Homan",
+              "pid": "h/VPless",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tim Menzies (21)",
+      "most_collaborated": "Sue Abu-Hakima",
+      "url": "https://dblp.uni-trier.de/pid/m/TimMenzies.html",
+      "children": [
+        {
+          "name": "Sue Abu-Hakima (0)",
+          "url": "https://dblp.uni-trier.de/pid/67/2784.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "David W. Aha",
+              "pid": "25/557",
+              "count": 0
+            },
+            {
+              "name": "Jim Austin",
+              "pid": "a/JimAustin",
+              "count": 0
+            },
+            {
+              "name": "Irma Becerra",
+              "pid": "39/10690",
+              "count": 0
+            },
+            {
+              "name": "Patrick Br\u00e9zillon",
+              "pid": "b/PatrickBrezillon",
+              "count": 0
+            },
+            {
+              "name": "Mary Elaine Califf",
+              "pid": "37/6181",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Amritanshu Agrawal (0)",
+          "url": "https://dblp.uni-trier.de/pid/180/3246.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Rishabh Agrawal",
+              "pid": "153/3713",
+              "count": 0
+            },
+            {
+              "name": "Joymallya Chakraborty",
+              "pid": "239/5715",
+              "count": 0
+            },
+            {
+              "name": "Di Chen",
+              "pid": "12/414",
+              "count": 0
+            },
+            {
+              "name": "Jianfeng Chen",
+              "pid": "87/6328",
+              "count": 0
+            },
+            {
+              "name": "Manuel Dominguez",
+              "pid": "14/2229",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Rishabh Agrawal (0)",
+          "url": "https://dblp.uni-trier.de/pid/153/3713.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Amritanshu Agrawal",
+              "pid": "180/3246",
+              "count": 0
+            },
+            {
+              "name": "Nirav Ajmeri",
+              "pid": "128/3298",
+              "count": 0
+            },
+            {
+              "name": "Nathan Dahlin",
+              "pid": "227/3386",
+              "count": 0
+            },
+            {
+              "name": "Partha Pratim Das",
+              "pid": "43/4145",
+              "count": 0
+            },
+            {
+              "name": "Wei Fu 0002",
+              "pid": "26/4472-2",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "David W. Aha (0)",
+          "url": "https://dblp.uni-trier.de/pid/25/557.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Myriam Abramson",
+              "pid": "37/6804",
+              "count": 0
+            },
+            {
+              "name": "Sue Abu-Hakima",
+              "pid": "67/2784",
+              "count": 0
+            },
+            {
+              "name": "Noa Agmon",
+              "pid": "52/1053",
+              "count": 0
+            },
+            {
+              "name": "Vikas Agrawal",
+              "pid": "24/584",
+              "count": 0
+            },
+            {
+              "name": "Marc K. Albert",
+              "pid": "01/2365",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Klaus-Dieter Althoff (0)",
+          "url": "https://dblp.uni-trier.de/pid/a/KlausDieterAlthoff.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Agnar Aamodt",
+              "pid": "a/AgnarAamodt",
+              "count": 0
+            },
+            {
+              "name": "Kareem Amin 0001",
+              "pid": "79/10620-1",
+              "count": 0
+            },
+            {
+              "name": "Eric Auriol",
+              "pid": "62/5851",
+              "count": 0
+            },
+            {
+              "name": "Thomas Avieny",
+              "pid": "12/4306",
+              "count": 0
+            },
+            {
+              "name": "Viktor Ayzenshtadt",
+              "pid": "172/3664",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cor-Paul Bezemer (20)",
+      "most_collaborated": "Bram Adams",
+      "url": "https://dblp.uni-trier.de/pid/95/7251.html",
+      "children": [
+        {
+          "name": "Bram Adams (0)",
+          "url": "https://dblp.uni-trier.de/pid/98/6356.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Rabe Abdalkareem",
+              "pid": "149/2653",
+              "count": 0
+            },
+            {
+              "name": "Mouna Abidi",
+              "pid": "254/6168",
+              "count": 0
+            },
+            {
+              "name": "Alexandra Johanne Bifona Africa",
+              "pid": "292/7321",
+              "count": 0
+            },
+            {
+              "name": "Ademar Aguiar",
+              "pid": "48/4640",
+              "count": 0
+            },
+            {
+              "name": "Omar Alam",
+              "pid": "99/7539",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Md. Ahasanuzzaman (0)",
+          "url": "https://dblp.uni-trier.de/pid/164/7378.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Abdulhameed Alelaiwi",
+              "pid": "56/7481",
+              "count": 0
+            },
+            {
+              "name": "Muhammad Asaduzzaman",
+              "pid": "88/9972",
+              "count": 0
+            },
+            {
+              "name": "Cor-Paul Bezemer",
+              "pid": "95/7251",
+              "count": 0
+            },
+            {
+              "name": "Ahmed E. Hassan",
+              "pid": "h/AhmedEHassan",
+              "count": 0
+            },
+            {
+              "name": "Mohammad Mehedi Hassan",
+              "pid": "84/4762",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Tarek M. Ahmed (0)",
+          "url": "https://dblp.uni-trier.de/pid/166/4956.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Cor-Paul Bezemer",
+              "pid": "95/7251",
+              "count": 0
+            },
+            {
+              "name": "Tse-Hsun (Peter) Chen",
+              "pid": "116/6782",
+              "count": 0
+            },
+            {
+              "name": "James R. Cordy",
+              "pid": "c/JamesRCordy",
+              "count": 0
+            },
+            {
+              "name": "Ahmed E. Hassan",
+              "pid": "h/AhmedEHassan",
+              "count": 0
+            },
+            {
+              "name": "Weiyi Shang",
+              "pid": "96/7305",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Hammam M. AlGhamdi (0)",
+          "url": "https://dblp.uni-trier.de/pid/332/2131.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Amina Asif",
+              "pid": "190/6982",
+              "count": 0
+            },
+            {
+              "name": "Cor-Paul Bezemer",
+              "pid": "95/7251",
+              "count": 0
+            },
+            {
+              "name": "Mohsin Bilal",
+              "pid": "25/8638",
+              "count": 0
+            },
+            {
+              "name": "Mark Eastwood",
+              "pid": "52/3770",
+              "count": 0
+            },
+            {
+              "name": "Parminder Flora",
+              "pid": "07/5582",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "Artur Andrzejak 0001 (0)",
+          "url": "https://dblp.uni-trier.de/pid/00/336.html",
+          "value": 0,
+          "children": [
+            {
+              "name": "Bram Adams",
+              "pid": "98/6356",
+              "count": 0
+            },
+            {
+              "name": "Javier Alonso",
+              "pid": "61/916",
+              "count": 0
+            },
+            {
+              "name": "Ayman A. Amin",
+              "pid": "242/7229",
+              "count": 0
+            },
+            {
+              "name": "David P. Anderson",
+              "pid": "00/4091",
+              "count": 0
+            },
+            {
+              "name": "\u00c1lvaro Enrique Arenas",
+              "pid": "a/AlvaroArenas",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
